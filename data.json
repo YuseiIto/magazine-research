@@ -1,0 +1,4091 @@
+{
+    "@context": {
+        "@vocab": "http://purl.org/rss/1.0/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "prism": "http://prismstandard.org/namespaces/basic/2.0/",
+        "opensearch": "http://a9.com/-/spec/opensearch/1.1/"
+    },
+    "@id": "https://ci.nii.ac.jp/opensearch/search?q=%E2%80%9D%E7%BE%85%E7%94%9F%E9%96%80%E2%80%9D&count=168&format=json&range=2&REMOTE_ADDR2=126.187.207.42",
+    "@graph": [{
+        "@id": "https://ci.nii.ac.jp/opensearch/search?q=%E2%80%9D%E7%BE%85%E7%94%9F%E9%96%80%E2%80%9D&count=168&format=json&range=2&REMOTE_ADDR2=126.187.207.42",
+        "@type": "channel",
+        "title": "CiNii OpenSearch - ”羅生門”",
+        "description": "CiNii OpenSearch - ”羅生門”",
+        "link": {
+            "@id": "https://ci.nii.ac.jp/opensearch/search?q=%E2%80%9D%E7%BE%85%E7%94%9F%E9%96%80%E2%80%9D&count=168&format=json&range=2&REMOTE_ADDR2=126.187.207.42"
+        },
+        "dc:date": "2019-04-14T17:45:58+09:00",
+        "opensearch:totalResults": "168",
+        "opensearch:startIndex": "1",
+        "opensearch:itemsPerPage": "168",
+        "items": [{
+                "@id": "https://ci.nii.ac.jp/naid/120006599397",
+                "@type": "item",
+                "title": "現代日本のカリキュラム改革の特徴と課題",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006599397"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006599397.json"
+                },
+                "dc:creator": [{
+                    "@value": "田中 耕治"
+                }],
+                "dc:publisher": "佛教大学教育学部学会",
+                "prism:publicationName": "佛教大学教育学部学会紀要",
+                "prism:issn": "1347-4782",
+                "prism:number": "18",
+                "prism:startingPage": "127",
+                "prism:endingPage": "149",
+                "prism:publicationDate": "2019-03-30",
+                "description": "現代進行している日本のカリキュラム改革を，歴史的に，社会的に分析して，その特徴と課題を明らかにする。以下，発表のプロットである。I. 日本における学習指導要領の変遷　 （1）編成主体　 （2-a）「振り子」のような変遷　 （2-b）学力論争と学習指導要領改訂の25年周期説　 （3-a）工学的アプローチ・羅生門的アプローチ　 （3-b）「教科学習」と「総合学習」の質的差異と相互環流II. 学習指導要領（2017年改訂）の背景　 （1） 脱「ゆとり教育政策」への転換　 （2）PISAショックと向上への取り組み　 （3）急速なグローバルな知識基盤社会への対応　 （3-a）社会人基礎力（ 3-b）新たな社会Society5.0（3-c）未来図　 （4）学力のグローバル・ギャップIII. 新学習指導要領（2017年改訂）の特徴　 （1-a）学習指導要領の全体的方向性　 （1-b）「資質・能力」重視の方針　 （1-c）「資質・能力」とアクティブ・ラーニング関係図　 （2）大学入試改革IV. 今後の課題",
+                "dc:date": "2019-03-30"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006596257",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」論 : 下人の内面性について",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006596257"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006596257.json"
+                },
+                "dc:creator": [{
+                        "@value": "付 自文"
+                    },
+                    {
+                        "@value": "Ziwen Fu"
+                    }
+                ],
+                "dc:publisher": "札幌大学女子短期大学部",
+                "prism:publicationName": "札幌大学女子短期大学部紀要 = Sapporo University women's junior college Journal",
+                "prism:number": "67",
+                "prism:startingPage": "33",
+                "prism:endingPage": "58",
+                "prism:publicationDate": "2019-03",
+                "dc:date": "2019-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006561109",
+                "@type": "item",
+                "title": "文学教材を活用した授業実践の事例 ―芥川龍之介「羅生門」および小川未明「火を点ず」の場合―",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006561109"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006561109.json"
+                },
+                "dc:creator": [{
+                        "@value": "池田 翼"
+                    },
+                    {
+                        "@value": "道園 達也"
+                    }
+                ],
+                "dc:publisher": "独立行政法人国立高等専門学校機構　熊本高等専門学校",
+                "prism:publicationName": "熊本高等専門学校　研究紀要 = RESEARCH REPORTS OF KUMAMOTO NATIONAL COLLEGE OF TECHNOLOGY",
+                "prism:issn": "1884-6734",
+                "prism:volume": "10",
+                "prism:number": "1",
+                "prism:startingPage": "1",
+                "prism:endingPage": "9",
+                "prism:publicationDate": "2019-01",
+                "description": "In classes using literature as teaching materials, it is required not only to know the background and to appreciate, but also to foster various abilities. We also use literature to practice ingenuity of lessons to develop diverse qualities. In this paper, we report how we tried utilizing Ryunosuke Akutagawa \"Rashomon\" and Mimei Ogawa \"Set a fire\".",
+                "dc:date": "2019-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006520711",
+                "@type": "item",
+                "title": "現代教育学部と教師教育 - 「主体的・対話的で深い学び」に迫る -",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006520711"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006520711.json"
+                },
+                "dc:creator": [{
+                    "@value": "豊田 ひさき"
+                }],
+                "dc:publisher": "中部大学現代教育学部",
+                "prism:publicationName": "現代教育学部紀要",
+                "prism:issn": "18833802",
+                "prism:volume": "10",
+                "prism:startingPage": "1",
+                "prism:endingPage": "9",
+                "prism:publicationDate": "2018-03",
+                "description": "本論考の課題は、2017(平成29)年公示の新学習指導要領で要請されている「主体的・対話的で深い学び」を具現する授業の質、つまり、「主体的」、「対話的」、「深い学び」の内実を解明することである。本論では、(1)「深い学び」の「深さ」は、子どもが授業を振り返って書く「ひとりしらべ」ノートに一番現れやすい。(2)子どもが、授業でどれだけ深い思考・認識活動を行ったかということは、そのノートからある程度推測できるし、それと同時に、授業で為された学びの「主体性」・「対話性」との関係性も推測できる、という仮説を立てた。この仮説を、東井義雄が子どもに書かせた「ひとりしらべ」ノートを「羅生門的アプローチ」(rashomonapproach)で分析し、仮説が妥当であるとの一定の成果を得た。と同時に、東井が実践した「教科の論理」(=ロゴス)と「生活の論理」(=パトス)を統一する生活綴方的教育方法の授業づくりは、「主体的・対話的で深い学び」をつくり出す教師と子どもの協働の仕事である、という事実も検証できた。",
+                "dc:date": "2018-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006470082",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」論 : 下人の太刀について (篠原進教授退任記念号)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006470082"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006470082.json"
+                },
+                "dc:creator": [{
+                    "@value": "日置 俊次"
+                }],
+                "dc:publisher": "青山学院大学日本文学会",
+                "prism:publicationName": "青山語文 = Aoyama journal of Japanese and Japanese literature",
+                "prism:issn": "0389-8393",
+                "prism:number": "48",
+                "prism:startingPage": "172",
+                "prism:endingPage": "192",
+                "prism:publicationDate": "2018-03",
+                "dc:date": "2018-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006471871",
+                "@type": "item",
+                "title": "生徒の思考を導く読み : 「羅生門」を起点として",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006471871"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006471871.json"
+                },
+                "dc:creator": [{
+                    "@value": "猪川 優子"
+                }],
+                "dc:publisher": "広島文教女子大学教育学会",
+                "prism:publicationName": "広島文教教育",
+                "prism:issn": "0913-8870",
+                "prism:volume": "32",
+                "prism:startingPage": "1",
+                "prism:endingPage": "7",
+                "prism:publicationDate": "2018-02-28",
+                "dc:date": "2018-02-28"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/40021812429",
+                "@type": "item",
+                "title": "倫理カンファの実践とナラティヴエシックス (特集 臨床に活かす! 倫理カンファ) -- (実践! 倫理カンファ)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/40021812429"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/40021812429.json"
+                },
+                "dc:creator": [{
+                    "@value": "金城 隆展"
+                }],
+                "dc:publisher": "新興医学出版社",
+                "prism:publicationName": "Modern physician",
+                "prism:issn": "0913-7963",
+                "prism:volume": "38",
+                "prism:number": "1",
+                "prism:startingPage": "79",
+                "prism:endingPage": "84",
+                "prism:publicationDate": "2018-01",
+                "dc:date": "2018-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/40021542643",
+                "@type": "item",
+                "title": "成人期にある知的障害を伴わない発達障害者のきょうだいの体験に関する一考察 : ある姉妹の「羅生門」的な語りの分析からきょうだいの多様性を捉える試み",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/40021542643"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/40021542643.json"
+                },
+                "dc:creator": [{
+                    "@value": "大瀧 玲子"
+                }],
+                "dc:publisher": "日本質的心理学会 ; 2002-",
+                "prism:publicationName": "質的心理学研究 = Japanese journal of qualitative psychology",
+                "prism:number": "17",
+                "prism:startingPage": "143",
+                "prism:endingPage": "163",
+                "prism:publicationDate": "2018",
+                "dc:date": "2018"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006583472",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」の受容について : 「繁体字文化圏」からの照射",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006583472"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006583472.json"
+                },
+                "dc:creator": [{
+                    "@value": "黄 郁婷"
+                }],
+                "dc:publisher": "青山学院大学文学部",
+                "prism:publicationName": "青山学院大学文学部紀要",
+                "prism:issn": "0518-1194",
+                "prism:number": "60",
+                "prism:startingPage": "43",
+                "prism:endingPage": "68",
+                "prism:publicationDate": "2018",
+                "dc:date": "2018"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006320863",
+                "@type": "item",
+                "title": "文学教材における語彙の指導に関して　：　教材「羅生門」を例として",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006320863"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006320863.json"
+                },
+                "dc:creator": [{
+                    "@value": "長崎 靖子"
+                }],
+                "dc:publisher": "川村学園女子大学図書委員会",
+                "prism:publicationName": "川村学園女子大学研究紀要 = The Journal of Kawamura Gakuen Woman's University",
+                "prism:issn": "0918-6050",
+                "prism:volume": "28",
+                "prism:number": "2",
+                "prism:startingPage": "205",
+                "prism:endingPage": "218",
+                "prism:publicationDate": "2017-03-15",
+                "dc:date": "2017-03-15"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005994848",
+                "@type": "item",
+                "title": "芥川龍之介の松江体験 : 失恋と『羅生門』誕生のあいだで",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005994848"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005994848.json"
+                },
+                "dc:creator": [{
+                        "@value": "岩田 英作"
+                    },
+                    {
+                        "@value": "Eisaku IWATA"
+                    }
+                ],
+                "dc:publisher": "島根県立大学短期大学部松江キャンパス",
+                "prism:publicationName": "島根県立大学短期大学部松江キャンパス研究紀要",
+                "prism:issn": "1882-6768",
+                "prism:number": "56",
+                "prism:startingPage": "1",
+                "prism:endingPage": "9",
+                "prism:publicationDate": "2017",
+                "dc:date": "2017"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006368284",
+                "@type": "item",
+                "title": "高等学校国語教科書における「羅生門」定番化に関する一検討 : 1973年から2007年における「羅生門」と「舞踏会」の採録状況の変遷に着目して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006368284"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006368284.json"
+                },
+                "dc:creator": [{
+                    "@value": "COLE Joshua Metcalf"
+                }],
+                "dc:publisher": "人文科教育学会",
+                "prism:publicationName": "人文科教育研究 = Journal of language teaching",
+                "prism:issn": "0913-1434",
+                "prism:number": "43",
+                "prism:startingPage": "83",
+                "prism:endingPage": "95",
+                "prism:publicationDate": "2016-08",
+                "dc:date": "2016-08"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006401791",
+                "@type": "item",
+                "title": "クリティカルシンキングの育成をめざす授業実践 : 「羅生門」の授業での課題設定の工夫を中心に &lt;第2部 教科研究&gt;",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006401791"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006401791.json"
+                },
+                "dc:creator": [{
+                    "@value": "重永 和馬"
+                }],
+                "dc:publisher": "広島大学附属福山中・高等学校",
+                "prism:publicationName": "中等教育研究紀要 ／広島大学附属福山中・高等学校",
+                "prism:issn": "0916-7919",
+                "prism:volume": "56",
+                "prism:startingPage": "160",
+                "prism:endingPage": "165",
+                "prism:publicationDate": "2016-03-31",
+                "description": "思考力の育成は，学校教育の今日的課題になっている。思考力の育成をめざす授業実践で問題になるのは， どのような実践上の工夫を行っているかであり，そのエ夫がどの程度有効かということである。育成が求められている思考力の一つに，クリティカルシンキングがあげられる。本稿はクリティカルシンキングの育成をめざして行った自身の授業実践と，実践を考察することで明らかになった成果と今後の課題を示すことを目的とする。特に，課題設定の工夫について取立てて論じた。",
+                "dc:date": "2016-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110010041094",
+                "@type": "item",
+                "title": "『羅生門』脚本の一考察",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110010041094"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110010041094.json"
+                },
+                "dc:creator": [{
+                        "@value": "窪田 信介"
+                    },
+                    {
+                        "@value": "Shinsuke KUBOTA"
+                    },
+                    {
+                        "@value": "桜美林大学芸術・文化学系"
+                    },
+                    {
+                        "@value": "J. F. Oberlin University Dvision of Arts and Culture"
+                    }
+                ],
+                "dc:publisher": "桜美林大学",
+                "prism:publicationName": "桜美林論考. 人文研究",
+                "prism:issn": "2185-0690",
+                "prism:number": "7",
+                "prism:startingPage": "53",
+                "prism:endingPage": "66",
+                "prism:publicationDate": "2016-03",
+                "dc:date": "2016-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005947262",
+                "@type": "item",
+                "title": "文学的文章の読みにおける読者の自己内対話に関する研究 : 『羅生門』における自己内対話の過程を手がかりに",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005947262"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005947262.json"
+                },
+                "dc:creator": [{
+                    "@value": "武田 裕司"
+                }],
+                "dc:publisher": "広島大学大学院教育学研究科",
+                "prism:publicationName": "広島大学大学院教育学研究科紀要. 第二部, 文化教育開発関連領域",
+                "prism:issn": "1346-5554",
+                "prism:number": "65",
+                "prism:startingPage": "129",
+                "prism:endingPage": "137",
+                "prism:publicationDate": "2016",
+                "description": "In this paper, I consider the self-dialogue of the reader in the literary reading. First, I overviewed theory \"The Dialogical self\" by H. Hermans. It revealed a process of self-dialogue of the reader as a clue that. Second, using a Ryunosuke Akutagawa \"Rashoumon\", it was considered a model of self-dialogue of the reader. As a result, along with the reveal the process of reading of being based on multiple of the readers of self, it was able to reveal the value of as a teaching tool of Ryunosuke Akutagawa \"Rashoumon\". The literature there is a function to activate the self-dialogue, the reader is thereby obtain a new noticed.",
+                "dc:date": "2016"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009900661",
+                "@type": "item",
+                "title": "『羅生門』「下人の行方」と「下人の心」　－「まだ燃えてゐる火の光」をめぐって－",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009900661"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009900661.json"
+                },
+                "dc:creator": [{
+                    "@value": "悉知 由紀夫"
+                }],
+                "dc:publisher": "北海道教育大学釧路校国語科教育研究室",
+                "prism:publicationName": "国語論集",
+                "prism:issn": "18824927",
+                "prism:volume": "12",
+                "prism:startingPage": "143",
+                "prism:endingPage": "150",
+                "prism:publicationDate": "2015-03",
+                "dc:date": "2015-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009900658",
+                "@type": "item",
+                "title": "教科書における図の研究 　－「羅生門」の掲載図を考察する－",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009900658"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009900658.json"
+                },
+                "dc:creator": [{
+                    "@value": "大村 勅夫"
+                }],
+                "dc:publisher": "北海道教育大学釧路校国語科教育研究室",
+                "prism:publicationName": "国語論集",
+                "prism:issn": "18824927",
+                "prism:volume": "12",
+                "prism:startingPage": "129",
+                "prism:endingPage": "133",
+                "prism:publicationDate": "2015-03",
+                "dc:date": "2015-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009871994",
+                "@type": "item",
+                "title": "「羅生門」の九種の漢訳文をめぐって",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009871994"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009871994.json"
+                },
+                "dc:creator": [{
+                    "@value": "南 海"
+                }],
+                "dc:publisher": "福井大学教育地域科学部",
+                "prism:publicationName": "福井大学教育地域科学部紀要",
+                "prism:issn": "2185369X",
+                "prism:volume": "5",
+                "prism:startingPage": "25",
+                "prism:endingPage": "34",
+                "prism:publicationDate": "2015-01",
+                "description": "福井大学教育地域科学部紀要(人文科学 国語学・国文学・中国語学編) , 5, 2014",
+                "dc:date": "2015-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130005142646",
+                "@type": "item",
+                "title": "建設技能労働者の技能獲得と継承に関する「羅生門」的人生史研究",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130005142646"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130005142646.json"
+                },
+                "dc:creator": [{
+                        "@value": "中川 善典"
+                    },
+                    {
+                        "@value": "山崎 祥悟"
+                    }
+                ],
+                "dc:publisher": "公益社団法人 土木学会",
+                "prism:publicationName": "土木学会論文集F4（建設マネジメント）",
+                "prism:volume": "71",
+                "prism:number": "4",
+                "prism:startingPage": "I_169",
+                "prism:endingPage": "I_180",
+                "prism:publicationDate": "2015",
+                "description": "本研究は、建設技能者はどのように技能を獲得・伝達してゆくのかに関する実態を理解するための第一歩として、これらのプロセスを理解するに資する概念の開発を目的とした。師匠・弟子の関係にある高知県内の二名一組の建設技能労働者から独立して人生史を収集し、修正版グラウンデッド・セオリー・アプローチで用いられている分析ワークシートの技法により概念を開発した。その結果、【会社に利益を残す仕事】【恐怖への耐性】【しわ寄せの受け手としての下請け】【下級建設会社の誇り】【非制度的昇給システム】【OJTなしの暗黙知伝授】【伝えたい思いと盗みたい思いとの合致】という７概念が生成された。また、これらを用いて二名の人生を描くことで、概念間の関係を例示した。技能獲得・継承ロセスに関する一般理論の構築は今後の課題だが、その理論はこれらの概念を用いて記述されることが期待できる。",
+                "dc:date": "2015"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005757201",
+                "@type": "item",
+                "title": "郭沫若による『里見弴作 雪の夜話』および魯迅による『芥川龍之介作 羅生門』の中国語訳の語法",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005757201"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005757201.json"
+                },
+                "dc:creator": [{
+                        "@value": "大高 順雄"
+                    },
+                    {
+                        "@value": "Yorio OTAKA"
+                    }
+                ],
+                "dc:publisher": "大手前大学",
+                "prism:publicationName": "大手前大学論集",
+                "prism:issn": "1882-644X",
+                "prism:number": "16",
+                "prism:startingPage": "153",
+                "prism:endingPage": "195",
+                "prism:publicationDate": "2015",
+                "description": "里見弴作『雪の夜話』1の郭沫若訳『雪的夜話』2と芥川龍之介作『羅生門』3の魯迅訳『罗生门』4との特徴を明らかにするため、着5、著、了、啦、把、将、咯の用法を検討する。両作品は分量において相違を示すが、日本語原文の豊富で多彩な表現と中国語訳文の簡素な表現の対比は興味を惹く。特に、俚言が頻出する里見弴の文は郭沫若に苦慮を強いたと思われる。惜しむらくは、末尾が蛇足と判断されて訳出されていない6。一方、論理的な簡潔な芥川龍之介の文は、魯迅を躓かせなかったであろう。二文人の丹精した中国語白話は範例とするに相応しいと考え、文例を網羅して検討に附する。本文关注的焦点，是通过探讨着、著、了、啦、把、将、咯的用法，揭示郭沫若译的里見弴作《雪夜的话》和鲁迅译的芥川龍之介作《罗生门》的中文特征。虽然这两篇作品在篇幅上现出不同，但是日文原文的丰富多彩的表现形式与汉译的简单素朴的表现方式的比较则颇为引人注目。特别是里見弴的原文频出的俚言用法，从中我们不难看出给郭沫若带来的难度。他把结尾看作是多余的部分,没有予以翻译，这也是非常遗憾的。然而，芥川龍之介的原文簡洁明了且有论理性，减少了鲁迅在文字上的一些徘徊与困惑。这两位文人精心拟制的白话译文，与范例相称，在此列举所有的例文并予以分析研讨。引用に当たっては、里見弴作『雪の夜話』（旧仮名）における同字記号は旧仮名に変え、数字は頁数を、上は上段、中は中段、下は下段、郭沫若訳『雪的夜話』（繁体字）における数字は頁数と行数を示す。同じく、芥川龍之介作『羅生門』と魯迅訳『罗生门』における数字は頁数と行数を示す。なお、文中で使用した符号は下記のようである。A完了・過去時制B現在時制C未来時制",
+                "dc:date": "2015"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009928931",
+                "@type": "item",
+                "title": "『羅生門』『山月記』『こころ』『舞姫』が高校国語の《定番教材》として採用され続ける要因について : 昭和53年度学習指導要領施行以降の動きを中心に(自由研究発表)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009928931"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009928931.json"
+                },
+                "dc:creator": [{
+                        "@value": "COLE JOSHUA METCALF"
+                    },
+                    {
+                        "@value": "筑波大学大学院"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "127",
+                "prism:startingPage": "17",
+                "prism:endingPage": "18",
+                "prism:publicationDate": "2014-11-08",
+                "dc:date": "2014-11-08"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009758443",
+                "@type": "item",
+                "title": "間テクスト性に着目した学習材開発 : 「ろくをさばく」を用いた「羅生門」の運用",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009758443"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009758443.json"
+                },
+                "dc:creator": [{
+                    "@value": "花坂 歩"
+                }],
+                "dc:publisher": "北海道教育大学釧路校国語科教育研究室",
+                "prism:publicationName": "国語論集",
+                "prism:issn": "18824927",
+                "prism:volume": "11",
+                "prism:startingPage": "219",
+                "prism:endingPage": "227",
+                "prism:publicationDate": "2014-03",
+                "dc:date": "2014-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005452296",
+                "@type": "item",
+                "title": "文法学習の意義の意識化を目指した指導の考察 : 『羅生門』における受身の助動詞に注目して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005452296"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005452296.json"
+                },
+                "dc:creator": [{
+                    "@value": "森田 恭章"
+                }],
+                "dc:publisher": "上越教育大学国語教育学会",
+                "prism:publicationName": "上越教育大学国語研究",
+                "prism:issn": "0913-5189",
+                "prism:number": "28",
+                "prism:startingPage": "53",
+                "prism:endingPage": "43",
+                "prism:publicationDate": "2014-02",
+                "dc:date": "2014-02"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130007557954",
+                "@type": "item",
+                "title": "検定教科書定番教材三題",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130007557954"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130007557954.json"
+                },
+                "dc:creator": [{
+                    "@value": "白石 良夫"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "63",
+                "prism:number": "1",
+                "prism:startingPage": "53",
+                "prism:endingPage": "60",
+                "prism:publicationDate": "2014",
+                "description": "&lt;p&gt;一　「「羅生門」の下人の恐怖」&lt;/p&gt;&lt;p&gt;羅生門の楼上で「頭身の毛も太る」ように感じた下人。その「頭身の毛も太る」を「恐怖のために髪が逆立つように感じられる」と説明するのが教科書の註釈であるが、下人の心理を辿ってゆくと、そのような解釈が成り立たないことを指摘する。&lt;/p&gt;&lt;p&gt;二　「李徴はなぜ「狂悖の性」を抑えることができなかったか」&lt;/p&gt;&lt;p&gt;「山月記」の李徴の「狂悖の性」を「きちがいじみてわがままなさま」とする教科書の註は、儒教思想史の常識からいえば、漢学の家の人、中島敦の作品の読み解きとしては、間違っていることを指摘。&lt;/p&gt;&lt;p&gt;三　「作者は本当のことを書くか」&lt;/p&gt;&lt;p&gt;虚構であることが自明の文学作品に、わざわざ架空であることの註釈をつけることが意味のない行為であることを指摘。作品の嘘を無視して、作者の実像を穿鑿することは文学の読み解きとは無関係であることを述べた。&lt;/p&gt;",
+                "dc:date": "2014"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005307748",
+                "@type": "item",
+                "title": "芥川龍之介における\"語り得ぬもの\" : 「羅生門」と「或阿呆の一生」を架橋するもの",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005307748"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005307748.json"
+                },
+                "dc:creator": [{
+                        "@value": "天満 尚仁"
+                    },
+                    {
+                        "@value": "テンマ ナオヒト"
+                    }
+                ],
+                "dc:publisher": "立教大学日本文学会",
+                "prism:publicationName": "立教大学日本文学",
+                "prism:issn": "0546-031X",
+                "prism:number": "110",
+                "prism:startingPage": "87",
+                "prism:endingPage": "99",
+                "prism:publicationDate": "2013-07",
+                "dc:date": "2013-07"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009810961",
+                "@type": "item",
+                "title": "質的研究の演習を足場とした&lt;現場/研究&gt;の対話的構成 : 往復書簡による羅生門的接近 (特集 教師の成長と教職大学院)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009810961"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009810961.json"
+                },
+                "dc:creator": [{
+                        "@value": "川島 大輔"
+                    },
+                    {
+                        "@value": "竹本 克己"
+                    },
+                    {
+                        "@value": "東海林 秀樹"
+                    }
+                ],
+                "dc:publisher": "北海道教育大学大学院教育学研究科高度教職実践専攻",
+                "prism:publicationName": "北海道教育大学大学院高度教職実践専攻研究紀要 : 教職大学院研究紀要",
+                "prism:issn": "2185-9620",
+                "prism:number": "3",
+                "prism:startingPage": "43",
+                "prism:endingPage": "57",
+                "prism:publicationDate": "2013-03",
+                "dc:date": "2013-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005428406",
+                "@type": "item",
+                "title": "読みに関する理解を育む「問い」の構造 : 『羅生門』を学習材とした授業実践を通して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005428406"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005428406.json"
+                },
+                "dc:creator": [{
+                    "@value": "渡邉 久暢"
+                }],
+                "dc:publisher": "福井大学教育地域科学部附属教育実践総合センター",
+                "prism:publicationName": "福井大学教育実践研究",
+                "prism:issn": "13427261",
+                "prism:volume": "37",
+                "prism:startingPage": "19",
+                "prism:endingPage": "30",
+                "prism:publicationDate": "2013-02-15",
+                "description": "読みに関する「転移可能な理解」を育むためには,読むことそのものに関わる「問い」を提示し,その「問 い」を追究させ,自己調整的に読みの実践を行う活動や,自分の意見を他者と交流させる活動,交流後に ふりかえりを書く活動を多く取り入れた上で,実際に方略を用いた読みの実践を経験させることが有効で あることを,筆者が行った小説単元の検討を通して明らかにする。",
+                "dc:date": "2013-02-15"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006402311",
+                "@type": "item",
+                "title": "国語科の読みの授業研究に「羅生門的アプローチ」を導入する効果の検証 : 学習者の対話に着目して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006402311"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006402311.json"
+                },
+                "dc:creator": [{
+                    "@value": "川田 英之"
+                }],
+                "dc:publisher": "香川大学教育学部",
+                "prism:publicationName": "香川大学教育実践総合研究",
+                "prism:issn": "1345-708X",
+                "prism:number": "26",
+                "prism:startingPage": "1",
+                "prism:endingPage": "14",
+                "prism:publicationDate": "2013",
+                "dc:date": "2013"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009781817",
+                "@type": "item",
+                "title": "郭沫若の中国語訳における'着'の用法",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009781817"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009781817.json"
+                },
+                "dc:creator": [{
+                    "@value": "大高 順雄"
+                }],
+                "dc:publisher": "大手前大学",
+                "prism:publicationName": "大手前大学論集",
+                "prism:issn": "1882-644X",
+                "prism:number": "14",
+                "prism:startingPage": "287",
+                "prism:endingPage": "318",
+                "prism:publicationDate": "2013",
+                "description": "1 日本語と'着'の対照表【表1】を作成し、'着'の使用法を示した。2 日本語と'着'の対照表に作品名を加えて、'着'の分布を示した。3 郭沫若に特有、郭沫若と魯迅に共存、魯迅に特有の'着'を検討し、両者による'着'の使用法の異同を作品別に示した。4 郭沫若と魯迅とは動作・状態の継続、開始、動作の帰結を表し、虚詞の構成要素となる'着'を日本語の文学作品に見られる多様な表現の中国語訳に使用した。5 これにより、両者が'着'を愛用したことを示した。6 郭沫若、毛沢東、周恩来の政治論文・演説文において'着'は「(動)着」、「(動)着的」、「(動)着的_了」の3語法および虚詞に限定されることを示した。7 郭沫若は'着'を新たな白話の構成要素とした。",
+                "dc:date": "2013"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009664905",
+                "@type": "item",
+                "title": "「定番教材」の誕生 : 「羅生門」教材史研究の空隙",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009664905"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009664905.json"
+                },
+                "dc:creator": [{
+                    "@value": "幸田 国広"
+                }],
+                "dc:publisher": "全国大学国語教育学会",
+                "prism:publicationName": "国語科教育",
+                "prism:issn": "0287-0479",
+                "prism:volume": "74",
+                "prism:number": "0",
+                "prism:startingPage": "14",
+                "prism:endingPage": "21",
+                "prism:publicationDate": "2013",
+                "description": "This study explores the process of creating standard study material using the example of &quot;Rashomon.&quot; &quot;Rashomon&quot; has been a best-seller since the 1970s, and its influence and popularity have significantly increased along with textbook revisions because of the revision in the curriculum. In related literature, research methods such as work theory and reading guidance note that &quot;Rashomon&quot; has maintained a constant position as a short story for one year of initial learning. Along with using literature classics as teaching material, it is important that textbook companies and educational bodies consider adopting literature classics as &quot;standard study material.&quot; This study demonstrates the primary interdependencies between the different organizations involved in school curriculum design.",
+                "dc:date": "2013"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009670186",
+                "@type": "item",
+                "title": "文学教材における「指導すべき語句」について : 「羅生門」、「走れメロス」を中心に(自由研究発表)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009670186"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009670186.json"
+                },
+                "dc:creator": [{
+                        "@value": "河内 昭浩"
+                    },
+                    {
+                        "@value": "安田女子大学"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "123",
+                "prism:startingPage": "73",
+                "prism:endingPage": "76",
+                "prism:publicationDate": "2012-10-27",
+                "dc:date": "2012-10-27"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009670185",
+                "@type": "item",
+                "title": "〈物語〉と〈小説〉の違いを授業に生かす : 「走れメロス」「羅生門」「山月記」を例に(自由研究発表)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009670185"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009670185.json"
+                },
+                "dc:creator": [{
+                        "@value": "丸山 義昭"
+                    },
+                    {
+                        "@value": "新潟県立長岡大手高校"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "123",
+                "prism:startingPage": "69",
+                "prism:endingPage": "72",
+                "prism:publicationDate": "2012-10-27",
+                "dc:date": "2012-10-27"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005939416",
+                "@type": "item",
+                "title": "比較文学の角度から「羅生門」を読む : 〈下人の面皰〉をめぐって",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005939416"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005939416.json"
+                },
+                "dc:creator": [{
+                    "@value": "王 書瑋"
+                }],
+                "dc:publisher": "千葉大学文学部日本文化学会",
+                "prism:publicationName": "語文論叢",
+                "prism:issn": "03857980",
+                "prism:number": "27",
+                "prism:startingPage": "15",
+                "prism:endingPage": "25",
+                "prism:publicationDate": "2012-07",
+                "dc:date": "2012-07"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009571274",
+                "@type": "item",
+                "title": "教室のよみを立ち上がらせる文学の授業 : 羅生門を中心に(自由研究発表)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009571274"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009571274.json"
+                },
+                "dc:creator": [{
+                        "@value": "佐々木 秀穂"
+                    },
+                    {
+                        "@value": "北海道札幌南高等学校"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "122",
+                "prism:startingPage": "247",
+                "prism:endingPage": "248",
+                "prism:publicationDate": "2012-05-26",
+                "dc:date": "2012-05-26"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005260611",
+                "@type": "item",
+                "title": "ある不登校事例をめぐる多声的ライフストーリー -羅生門的手法による検討-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005260611"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005260611.json"
+                },
+                "dc:creator": [{
+                    "@value": "持田 隆平"
+                }],
+                "dc:publisher": "早稲田大学人間科学学術院",
+                "prism:publicationName": "人間科学研究",
+                "prism:issn": "1880-0270",
+                "prism:volume": "25",
+                "prism:number": "1",
+                "prism:startingPage": "61",
+                "prism:endingPage": "61",
+                "prism:publicationDate": "2012-03-26",
+                "dc:date": "2012-03-26"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006359704",
+                "@type": "item",
+                "title": "教材「羅生門」の語彙研究",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006359704"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006359704.json"
+                },
+                "dc:creator": [{
+                        "@value": "河内 昭浩"
+                    },
+                    {
+                        "@value": "Akihiro Kawauchi"
+                    }
+                ],
+                "dc:publisher": "安田女子大学",
+                "prism:publicationName": "安田女子大学紀要 = Journal of Yasuda Women's University",
+                "prism:issn": "0289-6494",
+                "prism:number": "40",
+                "prism:startingPage": "193",
+                "prism:endingPage": "202",
+                "prism:publicationDate": "2012-02-28",
+                "dc:date": "2012-02-28"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130006210960",
+                "@type": "item",
+                "title": "「羅生門」「山月記」の〈語り〉を読む授業――その構築に向けて",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130006210960"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130006210960.json"
+                },
+                "dc:creator": [{
+                    "@value": "丸山 義昭"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "61",
+                "prism:number": "8",
+                "prism:startingPage": "54",
+                "prism:endingPage": "64",
+                "prism:publicationDate": "2012",
+                "description": "&lt;p&gt;「羅生門」「山月記」、それぞれの〈語り方・語られ方〉を読むことで、物語内容をどう対象化していけるか。どのような問いかけによって、生徒の読みを揺さぶることができるか、「羅生門」では生徒の読みを検討しながら、授業を進めた。「山月記」では李徴の語りと、作品全体の語りの双方を相対化する授業を行った。語り手の、登場人物に対する見方、人物との距離を明らかにすることで、何が浮かび上がってくるのか。授業の概要と、考えていることの報告である。&lt;/p&gt;",
+                "dc:date": "2012"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005736963",
+                "@type": "item",
+                "title": "小説家たちの起源(3)芥川龍之介 : 「羅生門」再読",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005736963"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005736963.json"
+                },
+                "dc:creator": [{
+                    "@value": "浅野 洋"
+                }],
+                "dc:publisher": "近畿大学大学院文芸学研究科",
+                "prism:publicationName": "渾沌",
+                "prism:volume": "0",
+                "prism:number": "9",
+                "prism:startingPage": "1",
+                "prism:endingPage": "28",
+                "prism:publicationDate": "2012",
+                "dc:date": "2012"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005376902",
+                "@type": "item",
+                "title": "文学教材で何を読むのか : 芥川龍之介『羅生門』の場合",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005376902"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005376902.json"
+                },
+                "dc:creator": [{
+                    "@value": "廻野 聡紘"
+                }],
+                "dc:publisher": "尾道市立大学日本文学会",
+                "prism:publicationName": "尾道市立大学日本文学論叢",
+                "prism:issn": "2187-3569",
+                "prism:number": "8",
+                "prism:startingPage": "(19)",
+                "prism:endingPage": "(35)",
+                "prism:publicationDate": "2012",
+                "dc:date": "2012"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009438064",
+                "@type": "item",
+                "title": "授業を通して更新される作品のよみ : 「羅生門」&lt;きりぎりす=老婆説&gt;をめぐって(自由研究発表)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009438064"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009438064.json"
+                },
+                "dc:creator": [{
+                        "@value": "佐々木 秀穂"
+                    },
+                    {
+                        "@value": "北海道札幌新川高等学校"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "121",
+                "prism:startingPage": "207",
+                "prism:endingPage": "210",
+                "prism:publicationDate": "2011-10-29",
+                "dc:date": "2011-10-29"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005945832",
+                "@type": "item",
+                "title": "黒澤明監督『羅生門』と母性",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005945832"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005945832.json"
+                },
+                "dc:creator": [{
+                    "@value": "水口 紀勢子"
+                }],
+                "dc:publisher": "帝京大学外国語学部外国語学科",
+                "prism:publicationName": "帝京大学外国語外国文化",
+                "prism:issn": "18824579",
+                "prism:number": "4",
+                "prism:startingPage": "1",
+                "prism:endingPage": "23",
+                "prism:publicationDate": "2011-03",
+                "dc:date": "2011-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009809022",
+                "@type": "item",
+                "title": "「思う」について考える : 日中思考動詞の訳し分けについて",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009809022"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009809022.json"
+                },
+                "dc:creator": [{
+                        "@value": "桃井 恵一"
+                    },
+                    {
+                        "@value": "成美大学経営情報学部"
+                    },
+                    {
+                        "@value": "Seibi University School of Management and Business Administration"
+                    }
+                ],
+                "dc:publisher": "成美大学成美学会",
+                "prism:publicationName": "成美大学紀要 = The Seibi University review",
+                "prism:issn": "2186-0300",
+                "prism:volume": "1",
+                "prism:number": "1",
+                "prism:startingPage": "59",
+                "prism:endingPage": "69",
+                "prism:publicationDate": "2011-03",
+                "description": "本論は思考動詞「思う」を用いる日本語文が中国語ではどのように対応しているのか、『羅生門』『侏儒の言葉』『蟹工船』『風土』とその中国語訳を題材に見たものである。「思う」及び「考える」はそれぞれ中国語でも思考を表す動詞に翻訳される場合が多いが、必ずしもそうならない場合がある。日本語の「思う」ひとつとってみても、和英辞典では13の用法があるという(桜井(2009))。手元にある中型の日中辞典で「思う」を調べてみると、(日漢)(巻末参照)では8項目13 通りに、(日中)(巻末参照)では5項目14通りに訳し分けられていた。本稿では、「思う」が中国語ではどのような文脈でどのように対応しているのかを見る。",
+                "dc:date": "2011-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130007048428",
+                "@type": "item",
+                "title": "第59回全国集会の記録 「高校国語教材」の検討 現実発見の武器として-芥川龍之介「羅生門」・安部公房「赤い繭」-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130007048428"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130007048428.json"
+                },
+                "dc:creator": [],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "2011",
+                "prism:number": "213",
+                "prism:pageRange": "App2",
+                "prism:publicationDate": "2011",
+                "dc:date": "2011"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005345830",
+                "@type": "item",
+                "title": "「『羅生門』草稿ノート」をめぐる問題 : 変容するテクスト",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005345830"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005345830.json"
+                },
+                "dc:creator": [{
+                    "@value": "早澤 正人"
+                }],
+                "dc:publisher": "明治大学大学院",
+                "prism:publicationName": "文学研究論集",
+                "prism:issn": "1340-9174",
+                "prism:number": "35",
+                "prism:startingPage": "65",
+                "prism:endingPage": "87",
+                "prism:publicationDate": "2011",
+                "dc:date": "2011"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110008712403",
+                "@type": "item",
+                "title": "人間喜劇としての『羅生門』 : 「劇中劇」は誰と見る?",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110008712403"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110008712403.json"
+                },
+                "dc:creator": [{
+                    "@value": "岩﨑 晴彦"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "2011",
+                "prism:number": "214",
+                "prism:startingPage": "2",
+                "prism:endingPage": "43",
+                "prism:publicationDate": "2011",
+                "dc:date": "2011"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006335540",
+                "@type": "item",
+                "title": "『羅生門』小考--「下人の行方は、誰も知らない」と『今昔物語集』",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006335540"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006335540.json"
+                },
+                "dc:creator": [{
+                        "@value": "星山 健"
+                    },
+                    {
+                        "@value": "Ken Hoshiyama"
+                    },
+                    {
+                        "@value": "宮城学院女子大学"
+                    },
+                    {
+                        "@value": "Miyagi Gakuin Women's University"
+                    }
+                ],
+                "dc:publisher": "宮城学院女子大学日本文学会",
+                "prism:publicationName": "日本文学ノ-ト",
+                "prism:issn": "03867528",
+                "prism:number": "45",
+                "prism:startingPage": "140",
+                "prism:endingPage": "146",
+                "prism:publicationDate": "2010-07",
+                "dc:date": "2010-07"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/40017062183",
+                "@type": "item",
+                "title": "学習指導要領の特色を活かした小説教材の学習指導の工夫--小説「羅生門」(芥川龍之介)の場合",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/40017062183"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/40017062183.json"
+                },
+                "dc:creator": [{
+                    "@value": "矢原 豊祥"
+                }],
+                "dc:publisher": "広島大学国語教育会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "02873354",
+                "prism:number": "51",
+                "prism:startingPage": "32",
+                "prism:endingPage": "43",
+                "prism:publicationDate": "2010-03",
+                "dc:date": "2010-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002791209",
+                "@type": "item",
+                "title": "黒澤明『羅生門』におけるジェンダー表象について",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002791209"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002791209.json"
+                },
+                "dc:creator": [{
+                    "@value": "今成 尚志"
+                }],
+                "dc:publisher": "一橋大学大学院言語社会研究科",
+                "prism:publicationName": "言語社会",
+                "prism:number": "4",
+                "prism:startingPage": "331",
+                "prism:endingPage": "349",
+                "prism:publicationDate": "2010-03",
+                "dc:date": "2010-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130007048438",
+                "@type": "item",
+                "title": "文教研 私の大学 第59回全国集会プログラムと資料 「高校国語教材」の検討 現実発見の武器として-芥川龍之介「羅生門」・安部公房「赤い繭」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130007048438"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130007048438.json"
+                },
+                "dc:creator": [],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "2010",
+                "prism:number": "212",
+                "prism:startingPage": "39",
+                "prism:endingPage": "41",
+                "prism:publicationDate": "2010",
+                "dc:date": "2010"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002949790",
+                "@type": "item",
+                "title": "確かな学力の育成--国語基本教材の授業アプローチの方法『史記』(司馬遷)の場合",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002949790"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002949790.json"
+                },
+                "dc:creator": [{
+                        "@value": "吉田 裕久"
+                    },
+                    {
+                        "@value": "山元 隆春"
+                    },
+                    {
+                        "@value": "朝倉 孝之"
+                    },
+                    {
+                        "@value": "岡本 恵子"
+                    },
+                    {
+                        "@value": "黒瀬 直美"
+                    },
+                    {
+                        "@value": "新治 功"
+                    },
+                    {
+                        "@value": "西原 利典"
+                    },
+                    {
+                        "@value": "増田 知子"
+                    },
+                    {
+                        "@value": "三根 直美"
+                    }
+                ],
+                "dc:publisher": "広島大学学部・附属学校共同研究機構",
+                "prism:publicationName": "学部・附属学校共同研究紀要",
+                "prism:issn": "13465104",
+                "prism:number": "39",
+                "prism:startingPage": "129",
+                "prism:endingPage": "134",
+                "prism:publicationDate": "2010",
+                "description": "確かな学力の育成のためには, 国語科では基本教材のあり方を常に問い直す試みが不可欠である。本研究は, 中学校・高等学校の文学的文章の基本教材の授業においてどのような読みの学力を育成することができるかを, その授業アプローチに焦点化して3年間にわたって実践・検証したものである。第1年次は中学校の基本教材である「少年の日の思い出」(ヘルマン・ヘッセ), 第2年次は高校の基本教材である「羅生門」(芥川龍之介), 第3年次に当たる今年度は, 高等学校古典(漢文)の基本教材である『史記』(司馬遷)を取り上げた。『史記』の基本教材としての今日的価値を明らかにした後, 「項羽本紀」の「鴻門之会」に絞って実践を行った。全体での読解授業に入る前に, 当該部分を生徒独自に読み解かせた。そして, 授業の前後に人物・表現・場面の3点に関してアンケートをとり, 分析し, アンケートから導かれたことを土台に効果的なアプローチの方法を提案した。殊に学習者が『史記』の叙述の何に着目し, それをどのように評価したかを踏まえた。具体的には, 「鴻門之会」の「身振りの文学」としての性格を基底に据えたアプローチの提案となった。",
+                "dc:date": "2010"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110007685922",
+                "@type": "item",
+                "title": "羅生門(〔付〕別稿,熊谷孝著作論考より(3),第59回文教研全国集会資料)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007685922"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007685922.json"
+                },
+                "dc:creator": [{
+                    "@value": "[記載なし]"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "2010",
+                "prism:number": "212",
+                "prism:startingPage": "56",
+                "prism:endingPage": "62",
+                "prism:publicationDate": "2010",
+                "dc:date": "2010"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110007609780",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」/「下人」の行方は、誰も知らない : 歴史小説を熟読する",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007609780"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007609780.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐藤 嗣男"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "2010",
+                "prism:number": "211",
+                "prism:startingPage": "48",
+                "prism:endingPage": "61",
+                "prism:publicationDate": "2010",
+                "dc:date": "2010"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002223699",
+                "@type": "item",
+                "title": "坂口安吾「白痴」と芥川龍之介「羅生門」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002223699"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002223699.json"
+                },
+                "dc:creator": [{
+                        "@value": "長野 秀樹"
+                    },
+                    {
+                        "@value": "Nagano Hideki"
+                    }
+                ],
+                "dc:publisher": "九州大学日本語文学会",
+                "prism:publicationName": "九大日文",
+                "prism:number": "14",
+                "prism:startingPage": "80",
+                "prism:endingPage": "88",
+                "prism:publicationDate": "2009-10-01",
+                "dc:date": "2009-10-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001295193",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」論--下人が盗みをする理由",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001295193"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001295193.json"
+                },
+                "dc:creator": [{
+                    "@value": "水洞 幸夫"
+                }],
+                "dc:publisher": "金沢大学国語国文学会",
+                "prism:publicationName": "金沢大学国語国文",
+                "prism:issn": "02863847",
+                "prism:number": "34",
+                "prism:startingPage": "28",
+                "prism:endingPage": "38",
+                "prism:publicationDate": "2009-03",
+                "dc:date": "2009-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110007572847",
+                "@type": "item",
+                "title": "日中両言語の差異に関するノート : 芥川龍之介「羅生門」を手がかりとして",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007572847"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007572847.json"
+                },
+                "dc:creator": [{
+                    "@value": "平石 淑子"
+                }],
+                "dc:publisher": "大正大学",
+                "prism:publicationName": "大正大學研究紀要. 人間學部・文學部 = Memoirs of Taisho University. The School of Human Studies, the School of Literature",
+                "prism:issn": "2186-246X",
+                "prism:number": "94",
+                "prism:startingPage": "158",
+                "prism:endingPage": "140",
+                "prism:publicationDate": "2009-03",
+                "dc:date": "2009-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110007479490",
+                "@type": "item",
+                "title": "道徳授業における子どもの価値認識のプロセスに関する分析的研究",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007479490"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007479490.json"
+                },
+                "dc:creator": [{
+                        "@value": "芳賀 雅俊"
+                    },
+                    {
+                        "@value": "石川 英志"
+                    }
+                ],
+                "dc:publisher": "岐阜大学総合情報メディアセンター",
+                "prism:publicationName": "岐阜大学カリキュラム開発研究",
+                "prism:issn": "18846696",
+                "prism:volume": "26",
+                "prism:number": "1",
+                "prism:startingPage": "30",
+                "prism:endingPage": "41",
+                "prism:publicationDate": "2009-03",
+                "dc:date": "2009-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001483128",
+                "@type": "item",
+                "title": "「沈黙」の移動 : 魯迅が訳した「沈黙の塔」と「羅生門」をめぐって",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001483128"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001483128.json"
+                },
+                "dc:creator": [{
+                    "@value": "李 雪"
+                }],
+                "dc:publisher": "筑波大学比較・理論文学会",
+                "prism:publicationName": "文学研究論集",
+                "prism:issn": "0915-8944",
+                "prism:number": "27",
+                "prism:startingPage": "129",
+                "prism:endingPage": "141",
+                "prism:publicationDate": "2009-02-28",
+                "dc:date": "2009-02-28"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002243816",
+                "@type": "item",
+                "title": "確かな学力の育成--国語基本教材の授業アプローチの方法 『羅生門(芥川龍之介)』の場合",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002243816"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002243816.json"
+                },
+                "dc:creator": [{
+                        "@value": "吉田 裕久"
+                    },
+                    {
+                        "@value": "山元 隆春"
+                    },
+                    {
+                        "@value": "朝倉 孝之"
+                    },
+                    {
+                        "@value": "岡本 惠子"
+                    },
+                    {
+                        "@value": "黒瀬 直美"
+                    },
+                    {
+                        "@value": "新治 功"
+                    },
+                    {
+                        "@value": "西原 利典"
+                    },
+                    {
+                        "@value": "増田 知子"
+                    },
+                    {
+                        "@value": "三根 直美"
+                    },
+                    {
+                        "@value": "宮本 浩治"
+                    }
+                ],
+                "dc:publisher": "広島大学学部・附属学校共同研究機構",
+                "prism:publicationName": "学部・附属学校共同研究紀要",
+                "prism:issn": "13465104",
+                "prism:number": "38",
+                "prism:startingPage": "111",
+                "prism:endingPage": "117",
+                "prism:publicationDate": "2009",
+                "description": "本研究は高等学校の国語基本教材「羅生門」において, どのような読みの学力を育成することができるか, それを授業を通して明らかにすることを目的としている。方法として以下の3点を設定した。①初読における生徒の読解力の状況を調査する。②学習後, 生徒の読みがどう変化したか, 検討する。③どのような授業アプローチにより, 読解力が身につけられたのか, さらに基本教材においてどんな学力を身につけていくことが可能なのか検討する。そして授業実践として, 方法・形態の異なる3つの授業を設定した。1は, 「境界の物語として読む」ことを明示した上で, プレテクスト『今昔物語集』とテクスト「羅生門」の位置づけから, コードや象徴を読み解く方法である。2は, 「認識主体の育成をめざした」授業で, 「何が問題なのか」を発見する授業である。3は, グループ学習で, 「下人の行方を考える」学習課題を設定し, テクストから検証する方法である。これらの実践は, 「要点駆動の読み」を生み出すことをめざしたものともいえる。常に叙述を吟味しながら, 小説を読むことを探求していきたい。",
+                "dc:date": "2009"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009685339",
+                "@type": "item",
+                "title": "羅生門ドリーネ及びその周辺(日本の貴重なコケの森)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009685339"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009685339.json"
+                },
+                "dc:creator": [{
+                    "@value": "立石 幸敏"
+                }],
+                "dc:publisher": "日本蘚苔類学会",
+                "prism:publicationName": "蘚苔類研究",
+                "prism:issn": "1343-0254",
+                "prism:volume": "9",
+                "prism:number": "11",
+                "prism:startingPage": "372",
+                "prism:endingPage": "373",
+                "prism:publicationDate": "2009",
+                "description": "岡山県中西部には,「阿哲石灰岩」と呼ばれる石灰岩が分布している.羅生門はこの阿哲石灰岩地に位置している.羅生門は,標高約400mの石灰岩台地(草間台)の古い石灰洞が崩壊した4つのドリーネと,2つの石灰岩の天然橋からなり,東西・南北ともに約250m,高度差約40mのすり鉢状の地形をなしている.この羅生門の最下部の洞口からは高湿度の冷気が吹き上がってきている.このため,瀬尾ほか(1985)によれば,洞口付近では8月初旬の日中で約10℃,上部に行くに従って気温は上昇し,ドリーネの上部では約27℃という調査報告がされている.このように,羅生門一帯は特有の地形や地質と,特異な気象環境をもつために多くの動植物が生育している.蘚苔類についても多くの研究者が訪れ,その採集品に基づきいくつかの重要な報告がされている.野口(1956)は,羅生門の標本を元にセイナンヒラゴケNeckeropsis calcicolaを新種として発表した.Ando & Higuchi (1981)は,日本の石灰岩地に固有のキャラハラッコゴケGollania taxiphylloidesを新種として記載している.また,服部(1956)は,イギイチョウゴケLeiocolea igiana(=Lophozia igiana)を新種として発表している.また,羅生門の蘚苔類については,西村(1996)により蘚類31科,88属,128種,5亜種,8変種が報告され,古木・西村(1998)では,苔類19科,26属,39種が確認されている.羅生門一帯は,戦後幾度か人手により大きな自然破壊を受けてきた.近年,関係者の努力により,調査保護活動がなされてきているが,危機的状況が回避されたとは言えない.ただ,近年保護活動の一環として遊歩道が整備された.このため,最下部手前まで,入ることができ,好石灰性の種や,懸垂性の種を観察することが出来る.",
+                "dc:date": "2009"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110007482870",
+                "@type": "item",
+                "title": "芥川の得た&lt;反逆の論理&gt;とは : 「羅生門」誕生に至るまでのプロセスが静かに熱く伝えられる, 関口安義著, 「羅生門」の誕生, 5・20刊, 四六判, 二一四頁, 本体一八〇〇円, 翰林書房",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007482870"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007482870.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐藤 嗣男"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "2009",
+                "prism:number": "210",
+                "prism:startingPage": "35",
+                "prism:endingPage": "36",
+                "prism:publicationDate": "2009",
+                "dc:date": "2009"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110007009817",
+                "@type": "item",
+                "title": "三つの文学教材の学習方法を接続した授業 : 「故郷」「高瀬舟」「羅生門」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007009817"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110007009817.json"
+                },
+                "dc:creator": [{
+                        "@value": "二田 貴広"
+                    },
+                    {
+                        "@value": "国立大学法人奈良女子大学附属中等教育学校"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "115",
+                "prism:startingPage": "113",
+                "prism:endingPage": "116",
+                "prism:publicationDate": "2008-11-22",
+                "dc:date": "2008-11-22"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001631331",
+                "@type": "item",
+                "title": "『羅生門』にみるジェロントフォビア(gerontophobia) の系譜",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001631331"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001631331.json"
+                },
+                "dc:creator": [{
+                    "@value": "倉田 容子"
+                }],
+                "dc:publisher": "お茶の水女子大学大学院教育改革支援プログラム「日本文化研究の国際的情報伝達スキルの育成」事務局",
+                "prism:publicationName": "大学院教育改革支援プログラム「日本文化研究の国際的情報伝達スキルの育成」活動報告書",
+                "prism:number": "19",
+                "prism:startingPage": "131",
+                "prism:endingPage": "134",
+                "prism:publicationDate": "2008-03-31",
+                "dc:date": "2008-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009850579",
+                "@type": "item",
+                "title": "文学教育における「読みの技術」の役割とは何か?(&lt;特集&gt;文学教育の転回と希望-&lt;文脈&gt;を掘り起こして-)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009850579"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009850579.json"
+                },
+                "dc:creator": [{
+                    "@value": "丸山 義昭"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "57",
+                "prism:number": "8",
+                "prism:startingPage": "43",
+                "prism:endingPage": "52",
+                "prism:publicationDate": "2008",
+                "description": "「日常」に回収される読みを避け、読み手自身の価値観が超えるべきものとして突きつけられるような読みを構築するために、「羅生門」で「対比」という技術を使い、「小さな手袋」では「対比」から批評につなげていく。そうした読みは、「小説とは何か」という問いや「他者と出会うことの難しさ」といった認識が先にあって、導き出されたものであるが、私にとっては、「対比」「対応」などの技術によって到達できた読みでもある。",
+                "dc:date": "2008"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009850556",
+                "@type": "item",
+                "title": "国語科の授業における理論と授業実践の相互関係に関する研究 : 西郷理論を援用した「羅生門」実践をモデルとして(国語教育部門,第二八回研究発表大会・発表要旨)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009850556"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009850556.json"
+                },
+                "dc:creator": [{
+                    "@value": "林 浩司"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "57",
+                "prism:number": "6",
+                "prism:pageRange": "85",
+                "prism:publicationDate": "2008",
+                "dc:date": "2008"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/40015612520",
+                "@type": "item",
+                "title": "当事者調査隊が行く!--精神医療ユーザーの現状と声(9)就労の現状と生活面の安定",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/40015612520"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/40015612520.json"
+                },
+                "dc:creator": [{
+                    "@value": "羅生門 河童"
+                }],
+                "dc:publisher": "精神看護出版",
+                "prism:publicationName": "精神科看護",
+                "prism:issn": "09105794",
+                "prism:volume": "34",
+                "prism:number": "9",
+                "prism:startingPage": "62",
+                "prism:endingPage": "66",
+                "prism:publicationDate": "2007-09",
+                "dc:date": "2007-09"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000801663",
+                "@type": "item",
+                "title": "経営判断における道徳的構想力の理論--その認識論的基礎と企業倫理学的含意 (十川廣國教授退任記念号 [慶應義塾大学]商学部創立50周年記念)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000801663"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000801663.json"
+                },
+                "dc:creator": [{
+                    "@value": "梅津 光弘"
+                }],
+                "dc:publisher": "慶應義塾大学出版会",
+                "prism:publicationName": "三田商学研究",
+                "prism:issn": "0544571X",
+                "prism:volume": "50",
+                "prism:number": "3",
+                "prism:startingPage": "229",
+                "prism:endingPage": "237",
+                "prism:publicationDate": "2007-08",
+                "description": "商学部創立50周年記念 = Commemorating the fiftieth anniversary of the faculty十川廣國教授退任記念号 = In honour of Professor Hirokuni Sogawa50周年記念論文・退任記念論文本稿では経営判断における構想力の役割について理論的考察を行なう。まず，P. ワーヘインの著作から道徳的構想力のもつ経営判断上の意味と役割を概観したあと，イマヌエル・カントの批判期著作の中で構想力がどのような認識論的位置づけになっているかを確認する。さらに道徳的構想力あるいは構想力一般が企業経営において事実を越えた理念やビジョン策定，あるいは道徳的予測と不祥事の予防，さらには他者理解と共感といった観点から重要であり，それはCSR経営における立場を異にする様々なステイクホルダーの要求を理解し先取的にこれに対応していく上で特に重要となることが指摘される。",
+                "dc:date": "2007-08"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000857846",
+                "@type": "item",
+                "title": "『羅生門』と一九世紀末〜二〇世紀初頭の老婆表象 ― ジェロントフォビア（gerontophobia）の系譜 ―",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000857846"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000857846.json"
+                },
+                "dc:creator": [{
+                    "@value": "倉田 容子"
+                }],
+                "dc:publisher": "お茶の水女子大学21世紀COEプログラムジェンダー研究のフロンティア",
+                "prism:publicationName": "F-GENSジャーナル",
+                "prism:number": "8",
+                "prism:startingPage": "37",
+                "prism:endingPage": "45",
+                "prism:publicationDate": "2007-07",
+                "description": "芥川龍之介『羅生門』（1915）に登場する老婆は、「死骸」の臭気が充溢する場で、「死骸」の中に蹲りながら、「死骸」と向き合う形で登場し、さらに「肉食鳥」「鴉」「蟇」といったネガティブな比喩表現によって造形されている。このような老婆表象は、従来、下人の心理を中心とするストーリーとの整合性において意味づけられてきた。しかし本稿では、むしろその整合性を脱自然化すること、すなわち妖怪や魔物を連想させるネガティブな視覚的・聴覚的表現と、老婆に対する下人の「憎悪」や「侮蔑」といった感情、さらに下人の老婆に対する加害行為という三つの要素を結びつける暴力的なレトリックの回路を、同時代的なインターテクスチュアリティの観点から解体することを試みる。それにより、これまで古典文学に起源を求められてきた老婆表象が、同時代的なジェンダー／エイジング規範と響き合うものであり、下人の心理もまたそうした規範性と不可分なものであることを明らかにした。",
+                "dc:date": "2007-07"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005738877",
+                "@type": "item",
+                "title": "芥川龍之介のドストエフスキー体験--その地平に潜むもの、ふたたび「羅生門」との関りに触れつつ",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005738877"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005738877.json"
+                },
+                "dc:creator": [{
+                        "@value": "宮坂 覺"
+                    },
+                    {
+                        "@value": "Satoru Miyasaka"
+                    }
+                ],
+                "dc:publisher": "フェリス女学院大学国文学会",
+                "prism:publicationName": "玉藻",
+                "prism:issn": "0288-7266",
+                "prism:number": "42",
+                "prism:startingPage": "145",
+                "prism:endingPage": "162",
+                "prism:publicationDate": "2007-03",
+                "dc:date": "2007-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130005002649",
+                "@type": "item",
+                "title": "「動かないムラ」に考える:―他者の「心意」に迫るフィールドワークは可能か―",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130005002649"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130005002649.json"
+                },
+                "dc:creator": [{
+                    "@value": "松村 和則"
+                }],
+                "dc:publisher": "東北社会学会",
+                "prism:publicationName": "社会学年報",
+                "prism:issn": "0287-3133",
+                "prism:volume": "36",
+                "prism:number": "0",
+                "prism:startingPage": "61",
+                "prism:endingPage": "90",
+                "prism:publicationDate": "2007",
+                "description": "「そこにも人は住まねばならない」というテーゼは，琵琶湖―淀川水系という「特殊」な時・空間からうまれた「生活環境主義」というイデオロギーの所産である．もし，「条件不利地域」として日本の山村が見捨てられたならば，人々が棲む空間はこの日本のどこにも存在しないだろう．&lt;br&gt;　大都市圏に棲む人々が山村に関心を持つか否かを問う以前に，森林―山村空間は環境保全をめざすべくしてそこにある．崩壊すべきものとしてのムラ，崩壊したはずのムラ，環境保全主体としてのムラ，時代の変容と共に形容される様は変化したが依然として村落社会研究の中心テーマとしてムラ論もまたあった．&lt;br&gt;　環境保全という課題の前で，山村（ムラ）の主体性論は，新たな課題を背負って登場した．このテーマは，環境社会学研究において所有論，コモンズ論として深まりを見せたが，ムラ人の主体性を創り上げていく「はっきりとした意図を持たない首尾一貫性」（Ｐ・ブルデュー）を捉える「手口」が明示されずに来た．鳥越皓之の用語になぞらえれば，「言い分」論を経験論へ再度引き戻してモノグラフィックに記述することになるだろう．&lt;br&gt;　本稿は，以上のような問題意識の元に，環境保全主体としてのムラのリーダーを羅生門的手法で描き，書く主体をもその文脈に埋め込みつつ「動かないムラ」を記述する．",
+                "dc:date": "2007"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006024677",
+                "@type": "item",
+                "title": "平安京 境界考",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006024677"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006024677.json"
+                },
+                "dc:creator": [{
+                    "@value": "多ケ谷 有子"
+                }],
+                "dc:publisher": "関東学院大学[文学部]人文学会",
+                "prism:publicationName": "関東学院大学文学部紀要",
+                "prism:issn": "0286-1216",
+                "prism:number": "112",
+                "prism:startingPage": "181",
+                "prism:endingPage": "213",
+                "prism:publicationDate": "2007",
+                "description": "794年の平安遷都以来1868年の明治政府樹立まで、約1200年間の長きにわたって日本の帝都であった平安京は、世界の古代都市建築には珍しく、城壁のない宮都であった。この時代に生まれた物語、説話、伝説の中には、平安京の建都の思想および、洛中洛外という境界に対する意識が重要な要因になっているものがある。特に、異界の者や死者が生きている人間に影響を与える、あるいはその逆の側面を物語に見るとき、ヨーロッパ中世のキリスト教世界の煉獄のテーマに通じるものがある。本論では、以上の視点から、平安建都の性格が文学に与えた影響について、特に綱伝説をとりあげて考察する。",
+                "dc:date": "2007"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001392891",
+                "@type": "item",
+                "title": "比較中日「日本語」授業研究--中国の大学日本語科における『羅生門』調査",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001392891"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001392891.json"
+                },
+                "dc:creator": [{
+                        "@value": "陳 世華"
+                    },
+                    {
+                        "@value": "上谷 順三郎"
+                    }
+                ],
+                "dc:publisher": "鹿児島大学",
+                "prism:publicationName": "鹿児島大学教育学部教育実践研究紀要",
+                "prism:issn": "09175865",
+                "prism:volume": "17",
+                "prism:startingPage": "1",
+                "prism:endingPage": "11",
+                "prism:publicationDate": "2007",
+                "dc:date": "2007"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000902112",
+                "@type": "item",
+                "title": "ある性同一性障害者の自己構築プロセスの分析--同一トランスクリプトによる知見の羅生門的生成",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000902112"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000902112.json"
+                },
+                "dc:creator": [{
+                    "@value": "荘島(湧井) 幸子"
+                }],
+                "dc:publisher": "京都大学大学院教育学研究科",
+                "prism:publicationName": "京都大学大学院教育学研究科紀要",
+                "prism:issn": "13452142",
+                "prism:number": "53",
+                "prism:startingPage": "206",
+                "prism:endingPage": "219",
+                "prism:publicationDate": "2007",
+                "description": "近年､様々な学問領域において質的研究が隆盛を極めているが､質的研究の基本特徴はナラティヴターンといわれる認識論の変革を土台としている｡客観主義の基盤になってきた素朴実在論への懐疑や観察者と観察対象の相互作用や社会的相互行為の重視､そして意味やナラティヴ(物語)の重視といった特徴がある｡しかし､上記のような共通の関心を共有したとしても､質的研究法自体は全く異なる認識論的立場に立つ者に用いられていることもあるから､質的方法論には複数あるといえる｡そこで､本稿では同じ語りのトランスクリプトにタイプの異なる2つの質的方法 を援用する試みを行う｡それは､質的研究における認識論的反省(epistemological reflexivity)に基づいて行われる。",
+                "dc:date": "2007"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110006408131",
+                "@type": "item",
+                "title": "教育課程の今日的課題",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006408131"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006408131.json"
+                },
+                "dc:creator": [{
+                        "@value": "後藤 康志"
+                    },
+                    {
+                        "@value": "生田 孝至"
+                    }
+                ],
+                "dc:publisher": "新潟医療福祉学会",
+                "prism:publicationName": "新潟医療福祉学会誌",
+                "prism:issn": "1346-8774",
+                "prism:volume": "6",
+                "prism:number": "1",
+                "prism:startingPage": "114",
+                "prism:endingPage": "120",
+                "prism:publicationDate": "2006-12",
+                "description": "行動科学のパラダイムにおいては、学力は客観的に測定可能であり、カリキュラムの効果はテスト得点をもって測定可能と考えられてきた。一方、学習過程そのものの効果を検討しようとすれば、事前・事後のテスト得点の差異のみでは不十分であり、カリキュラム評価の焦点はまさに「いかなる学習が展開されたか」という展開過程に当てられるべきであろう。そこでは、量的・客観的アプローチだけではなく、質的・主観的アプローチをも併用した新しいカリキュラム評価が求められる。本稿では我が国における教育課程の編成における解釈的アプローチによるカリキュラム評価の問題について解説し、その具体的な提案としての教師ポートフォリオのデジタル化の事例をもとに今後の方向を考察する。This article outlines today's issues concerning curriculum development. There are two approaches to curriculum development. One is the technological approach and the other is the Rashomon approach. The technological approach is a traditional approach, in which evaluation based upon behavioral objectives, general scheme and psychometric tests are used. In the Rashomon approach, on the other hand, teachers should use various perspectives, common sense description and case methods. One of the important issue is how to device evaluation method of curriculum development in the Rashomon approach. It is proposed that Information and Communication technology should be used.",
+                "dc:date": "2006-12"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002402411",
+                "@type": "item",
+                "title": "芥川龍之介の小説に見られる視点の重層性--「羅生門」「蜘蛛の糸」「報恩記」において",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002402411"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002402411.json"
+                },
+                "dc:creator": [{
+                    "@value": "高野 敦志"
+                }],
+                "dc:publisher": "早稲田大学日本語学会",
+                "prism:publicationName": "早稲田日本語研究",
+                "prism:issn": "13484796",
+                "prism:number": "15",
+                "prism:startingPage": "24",
+                "prism:endingPage": "34",
+                "prism:publicationDate": "2006-03",
+                "dc:date": "2006-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001371918",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」私考",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001371918"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001371918.json"
+                },
+                "dc:creator": [{
+                        "@value": "小澤 保博"
+                    },
+                    {
+                        "@value": "Ozawa Yasuhiro"
+                    }
+                ],
+                "dc:publisher": "琉球大学教育学部",
+                "prism:publicationName": "琉球大学教育学部紀要",
+                "prism:issn": "13453319",
+                "prism:volume": "68",
+                "prism:startingPage": "11",
+                "prism:endingPage": "17",
+                "prism:publicationDate": "2006-03",
+                "dc:date": "2006-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000877703",
+                "@type": "item",
+                "title": "読むことの対話的交流を目指す授業--芥川龍之介『羅生門』による学習者の読みの交流 (研究協議会 主題:文学教育の未来--平成16年度)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877703"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877703.json"
+                },
+                "dc:creator": [{
+                    "@value": "松本 誠司"
+                }],
+                "dc:publisher": "広島大学国語教育会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "02873354",
+                "prism:number": "47",
+                "prism:startingPage": "103",
+                "prism:endingPage": "109",
+                "prism:publicationDate": "2006-03",
+                "description": "主題:文学教育の未来",
+                "dc:date": "2006-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110004788296",
+                "@type": "item",
+                "title": "思考型読解力を育む授業の一考察--『羅生門』の授業展開を通して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004788296"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004788296.json"
+                },
+                "dc:creator": [{
+                        "@value": "西 俊六"
+                    },
+                    {
+                        "@value": "Syunroku Nishi"
+                    }
+                ],
+                "dc:publisher": "盛岡大学",
+                "prism:publicationName": "盛岡大学紀要",
+                "prism:issn": "02860643",
+                "prism:number": "23",
+                "prism:startingPage": "178",
+                "prism:endingPage": "160",
+                "prism:publicationDate": "2006-03",
+                "description": "According to the announced \"OECD Investigation of Learning Arrival Degree\" (PISA), it has become clear that the scholarship of Japanese students has fallen in terms of reading comprehension, including a logical intellectual power. Responding to this, the Ministry of Education, Science and Culture has mapped out a revised course of study that took the training of \"PISA-type Reading Comprehension Abilities\" into consideration. In the sectional meeting of the Central Council of Education, the Ministry is going to implement these new tools of learning in their \"Reading Comprehension Improvement Program\" and has said that they will distribute them to elementary and junior high schools in the future. Thus, a new item of \"Conveying Ability\" was added to the objectives of national language in the existing course of study. \"Conveying Ability\" is the ability that can adequately promote a smooth mutual transmission of language and understanding of expression by precisely expressing language, and while respecting another's situation and thought in relation to one on one interaction. It is necessary for a language department to foster the student's will and manner that are linked with making good human relations and building a healthy society by the promotion of this \"Conveying Ability\" in our schools. At this time, I will try to present a way to foster a \"Thinking-type of reading\" as stated in the novel, \"Rashomon\", written by Ryunosuke Akutagawa, which is included in the \"National Language integration\".",
+                "dc:date": "2006-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/140000074250",
+                "@type": "item",
+                "title": "TV WARS テレビ・ウォーズ(5)黒澤明、\"天皇\"の孤影",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/140000074250"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/140000074250.json"
+                },
+                "dc:creator": [],
+                "dc:publisher": "日経BP社",
+                "prism:publicationName": "日経ビジネス",
+                "prism:issn": "00290491",
+                "prism:number": "1327",
+                "prism:startingPage": "116",
+                "prism:endingPage": "119",
+                "prism:publicationDate": "2006-02-06",
+                "description": "　「なぜ、世界のクロサワが…」。映画界にとって、それほど黒澤の功績は輝いていた。戦後間もない50年に公開された「羅生門」は、ベネチア国際映画祭でグランプリを獲得している。日本人監督として、世界の主要映画祭での初受賞だった。　その黒澤は、厳冬の夜、自らの体にカミソリを突きつけた。21カ所の傷跡のうち、1つは深く肉を裂き、頸動脈ぎりぎりの所まで達していた。",
+                "dc:date": "2006-02-06"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110006155095",
+                "@type": "item",
+                "title": "上級日本語学習者のための読解教材 : 芥川龍之介「羅生門」教材化の観点",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006155095"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006155095.json"
+                },
+                "dc:creator": [{
+                    "@value": "池田 庸子"
+                }],
+                "dc:publisher": "茨城大学留学生センター",
+                "prism:publicationName": "茨城大学留学生センター紀要",
+                "prism:issn": "13481088",
+                "prism:volume": "4",
+                "prism:startingPage": "23",
+                "prism:endingPage": "31",
+                "prism:publicationDate": "2006-02",
+                "description": "本稿では、芥川龍之介の短編小説「羅生門」の教材化を試みた。まず、日本語教育においてどのように文学作品が教材化され、授業で用いられてきたか調査し、先行研究をもとに文学教材の可能性について検討した。次に、「羅生門」の教材としての意義について述べた。そのうえで、作品をいかに読むか、作品から何を学ぶか、どのように読みを深めることができるか考察した。",
+                "dc:date": "2006-02"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110006405877",
+                "@type": "item",
+                "title": "教科書所収の「羅生門」における脚注の比較--学生の語彙理解に関する一考察",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006405877"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006405877.json"
+                },
+                "dc:creator": [{
+                    "@value": "山森 泉"
+                }],
+                "dc:publisher": "北陸学院短期大学",
+                "prism:publicationName": "北陸学院短期大学紀要",
+                "prism:issn": "02882795",
+                "prism:number": "38",
+                "prism:startingPage": "139",
+                "prism:endingPage": "151",
+                "prism:publicationDate": "2006",
+                "description": "基礎学力の低下、特に語彙力の低下は、高等教育機関における講義理解において大きな影響を与えている。そのため、教授する側は、学生の語彙力の実態やレベルを把握したうえで授業を進めていかねばならない。本稿では、高等教育機関において教授する側の参考とすることを目的に、高等学校国語の教科書に収録されており、ほとんどの高校生が学ぶ共通教材である小説「羅生門」の脚注の比較を行った。その結果、時代による差だけでなく、同時代であっても出版社により脚注を付けられた語に差異があるということが明らかになった。この結果を基に、授業時における説明の仕方を含め、今後の語彙指導のあり方を検討していかねばならない。",
+                "dc:date": "2006"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110004830197",
+                "@type": "item",
+                "title": "黒澤明『羅生門』をめぐって",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004830197"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004830197.json"
+                },
+                "dc:creator": [{
+                    "@value": "青柳 りさ"
+                }],
+                "dc:publisher": "金沢美術工芸大学",
+                "prism:publicationName": "金沢美術工芸大学紀要",
+                "prism:issn": "09146164",
+                "prism:number": "50",
+                "prism:startingPage": "45",
+                "prism:endingPage": "55",
+                "prism:publicationDate": "2006",
+                "dc:date": "2006"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006006447",
+                "@type": "item",
+                "title": "自律的な学びの創造と「目標準拠型」教育評価からの離脱",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006006447"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006006447.json"
+                },
+                "dc:creator": [{
+                    "@value": "中井 孝章"
+                }],
+                "prism:publicationName": "生活科学研究誌",
+                "prism:issn": "1348-6926",
+                "prism:number": "3",
+                "prism:startingPage": "115",
+                "prism:endingPage": "132",
+                "prism:publicationDate": "2005-03",
+                "dc:date": "2005-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005890151",
+                "@type": "item",
+                "title": "〈近代人〉への接近--『羅生門』草稿資料の言説分析をもとに",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005890151"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005890151.json"
+                },
+                "dc:creator": [{
+                    "@value": "塩井 正和"
+                }],
+                "dc:publisher": "奈良教育大学国文学会",
+                "prism:publicationName": "奈良教育大学国文",
+                "prism:issn": "03863824",
+                "prism:number": "28",
+                "prism:startingPage": "31",
+                "prism:endingPage": "41",
+                "prism:publicationDate": "2005-03",
+                "dc:date": "2005-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009421192",
+                "@type": "item",
+                "title": "『羅生門』とは何か--芥川龍之介と黒澤明",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009421192"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009421192.json"
+                },
+                "dc:creator": [{
+                        "@value": "鷲田 小彌太"
+                    },
+                    {
+                        "@value": "中澤 千磨夫"
+                    },
+                    {
+                        "@value": "江藤 茂博"
+                    },
+                    {
+                        "@value": "Koyata Washida"
+                    },
+                    {
+                        "@value": "Chimao Nakazawa"
+                    },
+                    {
+                        "@value": "Shigehiro Eto"
+                    },
+                    {
+                        "@value": "札幌大学"
+                    },
+                    {
+                        "@value": "北海道武蔵女子短期大学"
+                    },
+                    {
+                        "@value": "二松學舎大学"
+                    },
+                    {
+                        "@value": "Sapporo University"
+                    },
+                    {
+                        "@value": "Hokkaido Musashi Women's Junior College"
+                    },
+                    {
+                        "@value": "Nishogakusya University"
+                    }
+                ],
+                "dc:publisher": "北海道武蔵女子短期大学",
+                "prism:publicationName": "北海道武蔵女子短期大学紀要",
+                "prism:issn": "03899586",
+                "prism:number": "37",
+                "prism:startingPage": "133",
+                "prism:endingPage": "358",
+                "prism:publicationDate": "2005-03",
+                "dc:date": "2005-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110006237576",
+                "@type": "item",
+                "title": "芥川龍之介「羅生門」論",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006237576"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110006237576.json"
+                },
+                "dc:creator": [{
+                    "@value": "日置 俊次"
+                }],
+                "dc:publisher": "青山学院大学",
+                "prism:publicationName": "青山語文",
+                "prism:issn": "03898393",
+                "prism:number": "35",
+                "prism:startingPage": "54",
+                "prism:endingPage": "70",
+                "prism:publicationDate": "2005-03",
+                "dc:date": "2005-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009877866",
+                "@type": "item",
+                "title": "「総合的な学習の時間」の「工学的アプローチ」批判 : 「羅生門的アプローチ」を支える評価観転換の必要性",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009877866"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009877866.json"
+                },
+                "dc:creator": [{
+                    "@value": "小野沢 美明子"
+                }],
+                "dc:publisher": "日本大学教育学会",
+                "prism:publicationName": "教育學雑誌",
+                "prism:issn": "0288-4038",
+                "prism:volume": "40",
+                "prism:number": "0",
+                "prism:startingPage": "33",
+                "prism:endingPage": "47",
+                "prism:publicationDate": "2005",
+                "dc:date": "2005"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005633125",
+                "@type": "item",
+                "title": "物語文の指示語と視点--「羅生門」を通して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005633125"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005633125.json"
+                },
+                "dc:creator": [{
+                    "@value": "藤井 俊博"
+                }],
+                "dc:publisher": "同志社大学国文学会",
+                "prism:publicationName": "同志社国文学",
+                "prism:issn": "03898717",
+                "prism:number": "61",
+                "prism:startingPage": "325",
+                "prism:endingPage": "336",
+                "prism:publicationDate": "2004-11",
+                "dc:date": "2004-11"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006545425",
+                "@type": "item",
+                "title": "「羅生門」論--他者を見抜く物語",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006545425"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006545425.json"
+                },
+                "dc:creator": [{
+                    "@value": "小野 隆"
+                }],
+                "dc:publisher": "専修大学日本語日本文学会",
+                "prism:publicationName": "専修国文",
+                "prism:issn": "02863057",
+                "prism:number": "75",
+                "prism:startingPage": "19",
+                "prism:endingPage": "38",
+                "prism:publicationDate": "2004-09",
+                "dc:date": "2004-09"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000988247",
+                "@type": "item",
+                "title": "教科書に載る小説、載らない小説--芥川龍之介「羅生門」と山田詠美「ぼくは勉強ができない」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000988247"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000988247.json"
+                },
+                "dc:creator": [{
+                    "@value": "花田 俊典"
+                }],
+                "dc:publisher": "九州大学日本語文学会「九大日文」編集委員会",
+                "prism:publicationName": "九大日文",
+                "prism:number": "4",
+                "prism:startingPage": "204",
+                "prism:endingPage": "217",
+                "prism:publicationDate": "2004-04-30",
+                "dc:date": "2004-04-30"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110004633011",
+                "@type": "item",
+                "title": "「羅生門」論--末尾改稿を軸に",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004633011"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004633011.json"
+                },
+                "dc:creator": [{
+                    "@value": "池上 貴子"
+                }],
+                "dc:publisher": "梅光学院大学日本文学会",
+                "prism:publicationName": "日本文学研究",
+                "prism:issn": "02862948",
+                "prism:number": "39",
+                "prism:startingPage": "84",
+                "prism:endingPage": "93",
+                "prism:publicationDate": "2004-01",
+                "dc:date": "2004-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110004633010",
+                "@type": "item",
+                "title": "「羅生門」の契機となった『今昔物語集』のテキスト--『校註国文叢書』依拠説の否定",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004633010"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004633010.json"
+                },
+                "dc:creator": [{
+                    "@value": "宮田 尚"
+                }],
+                "dc:publisher": "梅光学院大学日本文学会",
+                "prism:publicationName": "日本文学研究",
+                "prism:issn": "02862948",
+                "prism:number": "39",
+                "prism:startingPage": "73",
+                "prism:endingPage": "83",
+                "prism:publicationDate": "2004-01",
+                "dc:date": "2004-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001138047",
+                "@type": "item",
+                "title": "環境としての画面の現象学--黒澤明《羅生門》と小津安二郎《秋日和》",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001138047"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001138047.json"
+                },
+                "dc:creator": [{
+                    "@value": "越智 洋"
+                }],
+                "dc:publisher": "文教大学",
+                "prism:publicationName": "文教大学国際学部紀要",
+                "prism:issn": "09173072",
+                "prism:volume": "14",
+                "prism:number": "1",
+                "prism:startingPage": "59",
+                "prism:endingPage": "77",
+                "prism:publicationDate": "2003-07",
+                "dc:date": "2003-07"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130006739284",
+                "@type": "item",
+                "title": "1G3-16 魅力ある理科授業の特徴に関する研究",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130006739284"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130006739284.json"
+                },
+                "dc:creator": [{
+                        "@value": "石原 正樹"
+                    },
+                    {
+                        "@value": "熊野 善介"
+                    }
+                ],
+                "dc:publisher": "一般社団法人 日本科学教育学会",
+                "prism:publicationName": "日本科学教育学会年会論文集",
+                "prism:issn": "2186-3628",
+                "prism:volume": "27",
+                "prism:number": "0",
+                "prism:startingPage": "285",
+                "prism:endingPage": "286",
+                "prism:publicationDate": "2003",
+                "description": "たいていの子どもは、自分の興味のあることには没頭することができる。子どもたちがおもしろい、楽しいと感じる魅力ある理科授業において、彼らは理科に没頭する。そして身近な疑問を科学的に解決しようとする。子どもたちに魅力ある授業を提供するのは教師である。そんな授業を構成し展開していく教師と、子どもたちの学習成果には密接な関係があるのではないだろうか。そんな優れた教師には共通点が何かあるのではないだろうか。これらの要素を見つけることを目的とし、授業ビデオ分析という方法を用いて、この研究を進めた。ただし魅力という言葉は抽象的であり、様々な要素が子どもたちを惹きつける。理屈で説明できないことが魅力ある授業の要素になり得ることを前提としておく。",
+                "dc:date": "2003"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009897189",
+                "@type": "item",
+                "title": "教科書、指導書、学習参考書、自習書が作る近代文学の「読み」 : &apos;〇三年検訂教科書「国語総合」における「羅生門」の扱い方(国語教育部門,第二三回研究発表大会・発表要旨)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009897189"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009897189.json"
+                },
+                "dc:creator": [{
+                    "@value": "森本 真幸"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "52",
+                "prism:number": "6",
+                "prism:startingPage": "107",
+                "prism:endingPage": "108",
+                "prism:publicationDate": "2003",
+                "dc:date": "2003"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001230094",
+                "@type": "item",
+                "title": "1975年4月30日「サイゴン開放」の語られ方 : その羅生門的構成から立ち上がるリアリティー(ワークショップ : 人生の物語に寄り添う(性格)心理学 その意義・方法論・実践手法)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001230094"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001230094.json"
+                },
+                "dc:creator": [{
+                    "@value": "伊藤 哲司"
+                }],
+                "dc:publisher": "日本パーソナリティ心理学会",
+                "prism:publicationName": "日本性格心理学会発表論文集",
+                "prism:volume": "12",
+                "prism:number": "0",
+                "prism:pageRange": "33",
+                "prism:publicationDate": "2003",
+                "dc:date": "2003"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002402375",
+                "@type": "item",
+                "title": "ピッチの変動について--音声教材『羅生門』の分析から",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002402375"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002402375.json"
+                },
+                "dc:creator": [{
+                    "@value": "本橋 幸康"
+                }],
+                "dc:publisher": "早稲田大学国語学会",
+                "prism:publicationName": "早稲田日本語研究",
+                "prism:number": "10",
+                "prism:startingPage": "75",
+                "prism:endingPage": "86",
+                "prism:publicationDate": "2002-03",
+                "dc:date": "2002-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/40004424247",
+                "@type": "item",
+                "title": "報告 鍼灸臨床教育における教育方法としての羅生門的モデルの検討",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/40004424247"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/40004424247.json"
+                },
+                "dc:creator": [{
+                    "@value": "河井 正隆"
+                }],
+                "dc:publisher": "全日本鍼灸学会",
+                "prism:publicationName": "全日本鍼灸学会雑誌",
+                "prism:issn": "02859955",
+                "prism:volume": "51",
+                "prism:number": "4",
+                "prism:startingPage": "500",
+                "prism:endingPage": "506",
+                "prism:publicationDate": "2001-08",
+                "dc:date": "2001-08"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130004176163",
+                "@type": "item",
+                "title": "しん灸臨床教育における教育方法としての羅生門的モデルの検討",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130004176163"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130004176163.json"
+                },
+                "dc:creator": [{
+                    "@value": "河井 正隆"
+                }],
+                "dc:publisher": "社団法人 全日本鍼灸学会",
+                "prism:publicationName": "全日本鍼灸学会雑誌",
+                "prism:issn": "0285-9955",
+                "prism:volume": "51",
+                "prism:number": "4",
+                "prism:startingPage": "500",
+                "prism:endingPage": "506",
+                "prism:publicationDate": "2001",
+                "description": "鍼灸臨床教育における評価法の一つに、丹澤らの組織的な取り組みで行われたOSCE (Objective Structured Clinical Examination) 研究がある。この研究を発端に、近年、鍼灸教育の場でOSCEの導入が注目されはじめている。&lt;BR&gt;本稿では鍼灸臨床教育における教育方法について検討を行った。そのための、一つの試みとして、本校で平成5年から取り組んでいる実技科目「シミュレーション実習」を取り上げ、カリキュラム開発における教授・学習課程と評価における方法論の一つ「羅生門的モデル」を援用し論及した。併せて学生授業評価から、本授業の有用性の検討を行った。&lt;BR&gt;対象とした「シミュレーション実習」の概要は次の通りである。一般目標には「鍼灸臨床に必要な臨床技能を修得し、鍼灸師としての態度と問題解決能力を養う」をかかげており、教授方略としてロール・プレイングや学生と教員、学生同士の検討会などを導入している。授業では、学生との相互作用のなか、教員の即興的で創造的な教授活動が求められることになる。そこでは予定外の授業展開があり、羅生門的モデルの特徴の一つである「専門家としての教師の力量」が重視される。また、本授業の教員による学生評価は、授業への関わりの度合い (貢献度) や討論会の場面での積極性などの観察・記録と、授業課題に対する小レポートを用いて、一般目標に照らし合わせて総合的に行われている。&lt;BR&gt;学生の授業評価では、授業に「興味がもてた」、授業方法について「有益である」などの肯定的意見が7割以上を占め、羅生門的モデルによる「シミュレーション実習」の有用性が示された。今後、学生の内的変化を加味しながら、さらなる検討を行いたい。",
+                "dc:date": "2001"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120004842275",
+                "@type": "item",
+                "title": "教授・学習過程におけるカリキュラム開発 : 武田常夫の授業実践の分析を通して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120004842275"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120004842275.json"
+                },
+                "dc:creator": [{
+                        "@value": "姫野 完治"
+                    },
+                    {
+                        "@value": "Himeno Kanji"
+                    },
+                    {
+                        "@value": "ヒメノ カンジ"
+                    }
+                ],
+                "dc:publisher": "大阪大学大学院人間科学研究科教育学系",
+                "prism:publicationName": "大阪大学教育学年報",
+                "prism:issn": "1341-9595",
+                "prism:number": "6",
+                "prism:startingPage": "131",
+                "prism:endingPage": "140",
+                "prism:publicationDate": "2001",
+                "description": "従来,カリキュラムは年間や単元のような長期的な計画・プログラムと捉えられてきた。これに対して,OECDが1974年に提起したカリキュラムの考え方は,計画・プログラムだけではなく,それに基づいた教師の働きかけと子どもの学習の総体,その評価を含むものとし,このようなカリキュラム開発のアプローチとして,工学的接近と羅生門的接近の2つを提案した。教授・学習過程から離れたカリキュラム開発はありえず,その意味でこの2つのアプローチをもとに授業実践を分析することは有意義と思われる。本研究は,教授・学習過程におけるカリキュラム開発の手続きを明らかにすることを目的とし,カリキュラム開登の2つのアプローチを参考に,熟練教師といわれる武田常夫の授業実践を分析した。その結果,教授・学習過程におけるカリキュラム開発として,羅生門的接近を発展させた新しい手続きを提案することができた。それは一方で,武田のカリキュラム開発が羅生門的接近を発展させたものであることを意味している。",
+                "dc:date": "2001"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110002905816",
+                "@type": "item",
+                "title": "低レベル放射性同位体を線源として用いる簡易携帯型蛍光X線分析装置及び日本古来の絵馬に使用された無機着色料の非破壊分析への応用",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002905816"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002905816.json"
+                },
+                "dc:creator": [{
+                        "@value": "下山 進"
+                    },
+                    {
+                        "@value": "野田 裕子"
+                    }
+                ],
+                "dc:publisher": "公益社団法人 日本分析化学会",
+                "prism:publicationName": "分析化学 = Japan analyst",
+                "prism:issn": "05251931",
+                "prism:volume": "49",
+                "prism:number": "12",
+                "prism:startingPage": "1015",
+                "prism:endingPage": "1021",
+                "prism:publicationDate": "2000-12-05",
+                "description": "セラミックスで密封した粒状のアメリシウム(&lt;SUP&gt;241&lt;/SUP&gt;Am)を樹脂で環状(厚さ3mm&times;外径&phi;18mm&times;内径&phi;12mm)に成形した放射線強度1.85MBqの線源(AET Technology,重量:0.5g,検出器側鉛遮蔽材を含め26g),この線源から放出される放射線を大気中において試料に照射し,試料から発生する二次X線を線源の中央(環状線源の中央空洞部)から検出する小型電子冷却式シリコン半導体X線検出器(Amptek XR-100CR,重量:142g),検出器と接続するプリアンプ(Amptek PX2CR,重量:1387g),そして小型マルチチャンネル波高分析器(Amptek PMCA 8000A,重量:240g)を用いて,総重量約1800gの簡易携帯型蛍光X線分析装置を組み立てた。そして,この装置を用いて1682年に奉納された絵馬「羅生門図」の青の彩色に使用された着色料について非破壊分析を行った。その結果,この着色料はCa,Fe,Co,Ni,Asを主成分元素として含む&ldquo;スマルト&rdquo;であることが明らかとなった。",
+                "dc:date": "2000-12-05"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006500389",
+                "@type": "item",
+                "title": "&lt;新刊紹介&gt;関口安義著(1)『芥川龍之介の復活』(2)『「羅生門」を読む』",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006500389"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006500389.json"
+                },
+                "dc:creator": [{
+                    "@value": "山中 秀樹"
+                }],
+                "prism:publicationName": "日本文學誌要",
+                "prism:issn": "02877872",
+                "prism:volume": "60",
+                "prism:startingPage": "130",
+                "prism:endingPage": "131",
+                "prism:publicationDate": "1999-07-10",
+                "dc:date": "1999-07-10"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110000277776",
+                "@type": "item",
+                "title": "「羅生門」僻見",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000277776"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000277776.json"
+                },
+                "dc:creator": [{
+                    "@value": "堀部 功夫"
+                }],
+                "dc:publisher": "同志社大学国文学会",
+                "prism:publicationName": "同志社国文学 = Doshisha Kokubungaku",
+                "prism:issn": "03898717",
+                "prism:number": "49",
+                "prism:startingPage": "14",
+                "prism:endingPage": "26",
+                "prism:publicationDate": "1999-01",
+                "dc:date": "1999-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009907197",
+                "@type": "item",
+                "title": "「新たなる倫理性」を求めて : 『羅生門』の授業をめぐって田中理論に学ぶ(&lt;特集&gt;なぜわたしたちは&lt;文学教育&gt;にこだわるのか)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009907197"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009907197.json"
+                },
+                "dc:creator": [{
+                    "@value": "鎌田 均"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "48",
+                "prism:number": "8",
+                "prism:startingPage": "11",
+                "prism:endingPage": "21",
+                "prism:publicationDate": "1999",
+                "description": "不毛の文化状況の中で、いかにして文学の力を甦らせ読者主体を再生させてゆくかという難問に向けて、田中実氏の理論に学びつつ『羅生門』の授業を通して考えてみた。いわゆる「学習の手引き」の書き替えを試み、さらに昨今話題となっているナラトロジーを比較対象として論を進め、田中理論の輪郭を明確にする。その先に&lt;新倫理主義&gt;とでも呼ぶべき方向性を見出そうとする。",
+                "dc:date": "1999"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002445749",
+                "@type": "item",
+                "title": "作品を読む : 「羅生門」を中心に",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002445749"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002445749.json"
+                },
+                "dc:creator": [{
+                    "@value": "工藤 茂"
+                }],
+                "dc:publisher": "別府大学アジア歴史文化研究所報編集委員会",
+                "prism:publicationName": "別府大学アジア歴史文化研究所報",
+                "prism:number": "16",
+                "prism:startingPage": "45",
+                "prism:endingPage": "45",
+                "prism:publicationDate": "1998-12",
+                "description": "研究会発表要旨",
+                "dc:date": "1998-12"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006500345",
+                "@type": "item",
+                "title": "&lt;卒論&gt;脚色作品は原作を越え得るか : 映画『羅生門』をめぐって",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006500345"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006500345.json"
+                },
+                "dc:creator": [{
+                    "@value": "矢部 正志"
+                }],
+                "prism:publicationName": "日本文學誌要",
+                "prism:issn": "02877872",
+                "prism:volume": "58",
+                "prism:startingPage": "104",
+                "prism:endingPage": "114",
+                "prism:publicationDate": "1998-07-11",
+                "dc:date": "1998-07-11"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120004546902",
+                "@type": "item",
+                "title": "羅生門ドリーネにおける樹木の葉温と壁面温度の鉛直構造について",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120004546902"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120004546902.json"
+                },
+                "dc:creator": [{
+                        "@value": "宮下 晃一"
+                    },
+                    {
+                        "@value": "米谷 俊彦"
+                    }
+                ],
+                "dc:publisher": "岡山大学資源生物科学研究所",
+                "prism:publicationName": "岡山大学資源生物科学研究所報告",
+                "prism:issn": "0916930X",
+                "prism:volume": "5",
+                "prism:number": "2",
+                "prism:startingPage": "169",
+                "prism:endingPage": "181",
+                "prism:publicationDate": "1998-06",
+                "dc:date": "1998-06"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002313393",
+                "@type": "item",
+                "title": "羅生門ドリ-ネにおける樹木の葉温と壁面温度の鉛直構造について",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002313393"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002313393.json"
+                },
+                "dc:creator": [{
+                        "@value": "宮下 晃一"
+                    },
+                    {
+                        "@value": "米谷 俊彦"
+                    }
+                ],
+                "dc:publisher": "岡山大学資源生物科学研究所",
+                "prism:publicationName": "岡山大学資源生物科学研究所報告",
+                "prism:issn": "0916930X",
+                "prism:volume": "5",
+                "prism:number": "2",
+                "prism:startingPage": "169",
+                "prism:endingPage": "181",
+                "prism:publicationDate": "1998-06",
+                "description": "Temperatures of tree's leaves and gate wall were measured in the summer of 1996 at doline. Diurnal fluctuations of leaf temperatures were greater, the higher the position of leaf in the doline, and they showed maximum temperatures later, the deeper the leaf position. The leaf temperature of trees growing in the first collapse doline was uniform in the horizontal direction and had a stable thermal layer. The difference between leaf temperatures at a depth of 20 m and 11 m was about 12℃ around noon. The leaf temperature was always higher at the upper part than at the lower part of the doline throughout the day. Daily fluctuation of wall temperature was small,compared with that of leaf temperature. The vertical profile of wall temperature was similar to that of leaf temperature. The warm water flowing down from the upper part of the doline influenced the soil temperature in the lower part of the doline. The thermal imagery elucidated the peculiar vertical structure of leaf and wall temperature formed in the summer at Rashomon doline.1996年夏季に羅生門の第一中間ドリーネ内の樹木の葉や壁面の温度の高度分布や経時変化の観測を行った。以下に得られた結果の主なものを列挙する。ドリーネ内の樹木の葉温は、水平方向に対しては、ほぼ一様な温度成層を示していた。樹木の葉温は、下層部で日変化巾が小さく、上層部で日変化巾が大きくなっていた。樹木の葉温は、高度が高くなるほど、高温を示す鉛直構造をもっていた。特に葉温の鉛直分布は、正午ごろに、高度差約9ｍの範囲で、温度差約12℃という非常に大きな正の鉛直勾配を示した。樹木の葉温が日最高温度を示す時間は、高度が高いほど早く、高度が下がるに従って遅くなっていた。羅生門の壁面温度は、樹木の葉温の鉛直構造と同じように、高度が高くなればなるほど、高温になっていた。また壁面の温度変動は、葉温の変動に比べて小さい。熱画像中に、周辺の温度と異なるホットスポットが見られた。これは、ドリーネ上部から流れ下りてきた暖かい水が地表面を濡らしている部分であり、ほぼ同じ場所の水のない部分の地表面温度と比べて約6℃も高くなっていた。高度方向に気温や地温に大きい温度勾配がある羅生門ドリーネにおいては、大雨などの場合に、上部から水が流れ下りてきた場合に、地表面温度を上げ、下層の気温を上昇させる可能性があることが指摘された。羅生門ドリーネにおいて、夏季に特異な葉温や壁面温度構造を形成しており、貴重な植物や動物が数多く生息できる温度環境にあることが、熱映像温度計を用いて確認できた。",
+                "dc:date": "1998-06"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130006738342",
+                "@type": "item",
+                "title": "上越教育大学学校教育学部附属小学校におけるカリキュラム開発の現状と課題",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130006738342"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130006738342.json"
+                },
+                "dc:creator": [{
+                    "@value": "田村 学"
+                }],
+                "dc:publisher": "一般社団法人 日本科学教育学会",
+                "prism:publicationName": "日本科学教育学会年会論文集",
+                "prism:issn": "2186-3628",
+                "prism:volume": "22",
+                "prism:number": "0",
+                "prism:startingPage": "39",
+                "prism:endingPage": "40",
+                "prism:publicationDate": "1998",
+                "description": "カリキュラム開発の方法をビルドアップの研究手法で行っている。ー般目標「生き生きとした子供が育つ学校」を掲げ、研究の対象を学校の教育活動全体に広げる。教師一人一人は、創造的な実践を積み重ね、その事例を全員で多面的に評価し改善 していく。",
+                "dc:date": "1998"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009781458",
+                "@type": "item",
+                "title": "羅生門ドリーネ内におけるコケ植物の生長(一般講演,第27回日本蘚苔類学会高知大会特集)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009781458"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009781458.json"
+                },
+                "dc:creator": [{
+                        "@value": "田中 敦司"
+                    },
+                    {
+                        "@value": "西村 直樹"
+                    }
+                ],
+                "dc:publisher": "日本蘚苔類学会",
+                "prism:publicationName": "蘚苔類研究",
+                "prism:issn": "1343-0254",
+                "prism:volume": "7",
+                "prism:number": "6",
+                "prism:pageRange": "191",
+                "prism:publicationDate": "1998",
+                "dc:date": "1998"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005481598",
+                "@type": "item",
+                "title": "排除する物語 / 排除された物語 -もうひとつの「羅生門」-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005481598"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005481598.json"
+                },
+                "dc:creator": [{
+                    "@value": "篠崎 美生子"
+                }],
+                "dc:publisher": "早稲田大学国文学会",
+                "prism:publicationName": "国文学研究",
+                "prism:issn": "0389-8636",
+                "prism:number": "123",
+                "prism:startingPage": "84",
+                "prism:endingPage": "93",
+                "prism:publicationDate": "1997-10-15",
+                "dc:date": "1997-10-15"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110002691224",
+                "@type": "item",
+                "title": "3. 大学一般教育課程における《教養》としての文学教育 : 芥川龍之介「羅生門」・「鼻」を題材として",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002691224"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002691224.json"
+                },
+                "dc:creator": [{
+                        "@value": "小澤 次郎"
+                    },
+                    {
+                        "@value": "北海道医療大学"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "91",
+                "prism:startingPage": "7",
+                "prism:endingPage": "7",
+                "prism:publicationDate": "1996-10-19",
+                "dc:date": "1996-10-19"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002399490",
+                "@type": "item",
+                "title": "『羅生門』とCasuistica －パスカルおよびドストエフスキーとの関連において－",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002399490"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002399490.json"
+                },
+                "dc:creator": [{
+                        "@value": "大場 恒明"
+                    },
+                    {
+                        "@value": "Ohba Tsuneaki"
+                    }
+                ],
+                "dc:publisher": "神奈川大学",
+                "prism:publicationName": "麒麟",
+                "prism:issn": "0918-6964",
+                "prism:volume": "5",
+                "prism:startingPage": "1",
+                "prism:endingPage": "10",
+                "prism:publicationDate": "1996-03-01",
+                "dc:date": "1996-03-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009914526",
+                "@type": "item",
+                "title": "「羅生門」論 : 老婆の視座から",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009914526"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009914526.json"
+                },
+                "dc:creator": [{
+                    "@value": "前田 角藏"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "45",
+                "prism:number": "2",
+                "prism:startingPage": "29",
+                "prism:endingPage": "41",
+                "prism:publicationDate": "1996",
+                "description": "「羅生門」の&lt;読み&gt;において、私達は、現実に身ぐるみを剥がれた老婆への想像力をこれまで働かせてこなかった。それどころか、人間はすべてエゴ的であるという原罪論のお墨付きを与えることで、エゴ的行為への抑止力を損わせ、結果として、弱い立場にある友人を&lt;いじめ&gt;ることへの不感症症候群を作り出してきた。本拙論は、こうした反省に立っての「羅生門」論である。羅生門の空間は、老婆との出会いによる新しい倫理の生成する&lt;場所&gt;でもあった。しかし、「羅生門」の&lt;場所&gt;は、ついにそのような転機を生む空間として変換されることはなかった。下人は、&lt;「仕方がなくする」&lt;悪&gt;は許される&gt;という倫理を育てるほかない弱者の世界についに一度も降り立つことなく、むしろ、最底辺に生きる人々と共通の状況を抱えながら、そこで、「権力的、暴力的」に生き始めたからである。ところが、「羅生門」では、二人の&lt;語り手&gt;の併存によってこうした問題がすべて&lt;空白化&gt;され、隠蔽されてしまった。この欠点は、老婆への視点の喪失という形で「羅生門」論に現れて来る。",
+                "dc:date": "1996"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009703979",
+                "@type": "item",
+                "title": "岡山県における「緊急に保護を要する植物の種選定に係る調査」の蘚類調査と羅生門(新見市)におけるコケ植物の保護・復元対策(シンポジウム,第24回大会講演要旨)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009703979"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009703979.json"
+                },
+                "dc:creator": [{
+                    "@value": "西村 直樹"
+                }],
+                "dc:publisher": "日本蘚苔類学会",
+                "prism:publicationName": "日本蘚苔類学会会報",
+                "prism:issn": "0285-0869",
+                "prism:volume": "6",
+                "prism:number": "9",
+                "prism:pageRange": "191",
+                "prism:publicationDate": "1996",
+                "dc:date": "1996"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001057011",
+                "@type": "item",
+                "title": "Project 「羅生門」-Report No.3-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001057011"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001057011.json"
+                },
+                "dc:creator": [{
+                        "@value": "安東 恭一郎"
+                    },
+                    {
+                        "@value": "金 芝均"
+                    },
+                    {
+                        "@value": "長町 充家"
+                    },
+                    {
+                        "@value": "日野 陽子"
+                    }
+                ],
+                "dc:publisher": "大阪教育大学・美術学科",
+                "prism:publicationName": "美術科研究",
+                "prism:issn": "02884313",
+                "prism:volume": "12",
+                "prism:startingPage": "55",
+                "prism:endingPage": "128",
+                "prism:publicationDate": "1995-03-31",
+                "dc:date": "1995-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110000469405",
+                "@type": "item",
+                "title": "「羅生門」の表現方法 : 森鴎外「金貨」の影",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000469405"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000469405.json"
+                },
+                "dc:creator": [{
+                    "@value": "小林 幸夫"
+                }],
+                "dc:publisher": "上智大学国文学科",
+                "prism:publicationName": "上智大学国文学科紀要",
+                "prism:issn": "02895552",
+                "prism:number": "12",
+                "prism:startingPage": "25",
+                "prism:endingPage": "44",
+                "prism:publicationDate": "1995-03-18",
+                "dc:date": "1995-03-18"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009914749",
+                "@type": "item",
+                "title": "「差別のことば」のある作品の授業展開 : &quot;おしのごとく黙って&quot;(羅生門)(国語教育部門,第十五回研究発表大会・発表要旨)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009914749"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009914749.json"
+                },
+                "dc:creator": [{
+                    "@value": "森本 真幸"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "44",
+                "prism:number": "6",
+                "prism:startingPage": "88",
+                "prism:endingPage": "89",
+                "prism:publicationDate": "1995",
+                "dc:date": "1995"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001143128",
+                "@type": "item",
+                "title": "私の教室 『羅生門』雑感",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143128"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143128.json"
+                },
+                "dc:creator": [{
+                    "@value": "橋本 伸弥"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1995",
+                "prism:number": "169",
+                "prism:startingPage": "38",
+                "prism:endingPage": "39",
+                "prism:publicationDate": "1995",
+                "dc:date": "1995"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000883027",
+                "@type": "item",
+                "title": "「羅生門」試論-上-谷崎潤一郎「刺青」に注目して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000883027"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000883027.json"
+                },
+                "dc:creator": [{
+                    "@value": "藤村 猛"
+                }],
+                "dc:publisher": "広島大学近代文学研究会",
+                "prism:publicationName": "近代文学試論",
+                "prism:issn": "09109765",
+                "prism:number": "32",
+                "prism:startingPage": "p21",
+                "prism:endingPage": "30",
+                "prism:publicationDate": "1994-12",
+                "dc:date": "1994-12"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009915804",
+                "@type": "item",
+                "title": "&lt;多様な読み&gt;を読み直す : 「羅生門」をめぐって(&lt;特集&gt;批評する文学教育-世界を読みなおすことばの力を-)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009915804"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009915804.json"
+                },
+                "dc:creator": [{
+                    "@value": "鳥居 明久"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "43",
+                "prism:number": "8",
+                "prism:startingPage": "31",
+                "prism:endingPage": "39",
+                "prism:publicationDate": "1994",
+                "description": "読みの多様性は、対話、相互批評の出発点としてこそ意味を持つと思うのだが、それが自らの読みを弁護するための口実となったり、多様な読みと言いながら、共通の錯誤に陥っていたりする場合もある。多くの「羅生門」論は、「飢え死に」か「盗人」かという下人の「低徊」が作品の表層でしかないことを看過している。そのことを指摘するとともに、教師(研究者)と教師(研究者)、教師と生徒との間での徹底した読みの対決を期待する。",
+                "dc:date": "1994"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009915728",
+                "@type": "item",
+                "title": "「羅生門」の秘儀(読む)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009915728"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009915728.json"
+                },
+                "dc:creator": [{
+                    "@value": "鈴木 醇爾"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "43",
+                "prism:number": "5",
+                "prism:startingPage": "62",
+                "prism:endingPage": "66",
+                "prism:publicationDate": "1994",
+                "dc:date": "1994"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009915596",
+                "@type": "item",
+                "title": "芥川龍之介『羅生門』論 : 「語り手」の優位性と重層的テキスト空間",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009915596"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009915596.json"
+                },
+                "dc:creator": [{
+                    "@value": "江藤 茂博"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "43",
+                "prism:number": "1",
+                "prism:startingPage": "12",
+                "prism:endingPage": "21",
+                "prism:publicationDate": "1994",
+                "description": "『羅生門』というテキスト空間の重層性は、旧記、登場人物「作者」の書いた先行するテキスト「羅生門」、そしてそれらを手にした「語り手」が、自らの語りのテキスト生成のありようを示すという構造であるとみて、示した。つぎに、その「語り手」の視線と下人の視線とを比較することで、これまで多くの読老が「語り手」の支配できない箇所に自らの物語を、しかも「語り手」とおなじ論理で、埋めていく構造を示した。そしてこの物語が近代的な自己同一性の物語として無批判に成立してきたのは、このテキスト空間の重層性と、そして本来的な無秩序性の存在によるものだということを指摘した。そして、このテキストの空間における下人の非決定的な在り方は、「語り手」と近代的な価値観によって隠蔽されてきた下人の姿であった。",
+                "dc:date": "1994"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001143055",
+                "@type": "item",
+                "title": "再び、『羅生門』について : 下 : 芥川の歴史小説の方法",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143055"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143055.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐藤 嗣男"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1994",
+                "prism:number": "165",
+                "prism:startingPage": "26",
+                "prism:endingPage": "33",
+                "prism:publicationDate": "1994",
+                "dc:date": "1994"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006500045",
+                "@type": "item",
+                "title": "『羅生門』文学教育の起点として(&lt;特集&gt;教育・国語教育論文)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006500045"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006500045.json"
+                },
+                "dc:creator": [{
+                    "@value": "鮎澤 浩二"
+                }],
+                "prism:publicationName": "日本文學誌要",
+                "prism:issn": "02877872",
+                "prism:volume": "48",
+                "prism:startingPage": "35",
+                "prism:endingPage": "44",
+                "prism:publicationDate": "1993-12-15",
+                "dc:date": "1993-12-15"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120005396761",
+                "@type": "item",
+                "title": "教材研究「羅生門」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005396761"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120005396761.json"
+                },
+                "dc:creator": [{
+                    "@value": "金田 文雄"
+                }],
+                "dc:publisher": "広島女学院大学",
+                "prism:publicationName": "広島女学院大学論集",
+                "prism:issn": "03748057",
+                "prism:volume": "43",
+                "prism:startingPage": "244",
+                "prism:endingPage": "232",
+                "prism:publicationDate": "1993-12",
+                "description": "The stories of Ryunosuke Akutagawa are often adopted as Japanese language teaching resourses in high school and, among them, \"Rashomon\" is one of Akutagawa's most frequently used works. In this paper I have selected \"Rashomon\" as the focus of my research on teaching materials.While confirming major critical theories of the work to date, I first supply a critical reading which focuses on shifts in the psychology of the main character, \"The servant.\"Next, from the point of view of expression, I look at the frequent similies employed in the work, and tracing their individual effects, I clarify their organic relationship to the work as a whole.I also turn my attention to the methodology of the narrative and considering as a starting point the question \"What is a story?\" I enquire into the significance of this work as a teaching text.",
+                "dc:date": "1993-12"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001056997",
+                "@type": "item",
+                "title": "Project 「羅生門」-Report No.2(1)-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001056997"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001056997.json"
+                },
+                "dc:creator": [{
+                        "@value": "安東 恭一郎"
+                    },
+                    {
+                        "@value": "金 芝均"
+                    },
+                    {
+                        "@value": "長町 充家"
+                    },
+                    {
+                        "@value": "日野 陽子"
+                    },
+                    {
+                        "@value": "平井 眞由美"
+                    },
+                    {
+                        "@value": "藤原 和幸"
+                    }
+                ],
+                "dc:publisher": "大阪教育大学・美術学科",
+                "prism:publicationName": "美術科研究",
+                "prism:issn": "02884313",
+                "prism:volume": "10",
+                "prism:startingPage": "37",
+                "prism:endingPage": "102",
+                "prism:publicationDate": "1993-03-31",
+                "dc:date": "1993-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110000192065",
+                "@type": "item",
+                "title": "&lt;個人研究論文&gt;文学教材としての「羅生門」について : 授業の反省から",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000192065"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000192065.json"
+                },
+                "dc:creator": [{
+                    "@value": "仲田 輝康"
+                }],
+                "dc:publisher": "広島大学教育学部附属福山中･高等学校",
+                "prism:publicationName": "中等教育研究紀要 ／広島大学附属福山中・高等学校",
+                "prism:issn": "0916-7919",
+                "prism:volume": "33",
+                "prism:startingPage": "71",
+                "prism:endingPage": "78",
+                "prism:publicationDate": "1993-03-10",
+                "description": "「羅生門」の指導では,従来その主題をとらえることや,それを前提にして,作品の表している問題を自分の問題として考えさせることに主眼がおかれる傾向があった。しかし,その過程で重視されてきた下人の心理の変化やエゴイズムのありようが,さほど人の心を打つとは思えないし,それらを中心に読むことが豊かな文学体験を与えることになるとも思えない。文学作品の価値は,それがどれだけ人の心を打つかで決まると言っていい。文学の教育でもそのことが基本的視座に据えられなければならない。このような観点から文学教材としての「羅生門」について考察する。",
+                "dc:date": "1993-03-10"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009917440",
+                "@type": "item",
+                "title": "下人という可能性 : 『羅生門』私論",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009917440"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009917440.json"
+                },
+                "dc:creator": [{
+                    "@value": "中村 良衛"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "42",
+                "prism:number": "6",
+                "prism:startingPage": "32",
+                "prism:endingPage": "42",
+                "prism:publicationDate": "1993",
+                "description": "『羅生門』において、老婆がそれとの類似性を強調されている鴉は、単に不気味さを生み出すためだけに登場しているわけではない。鴉と老婆は、ともに舞台となる京の社会のもう一つの極を形成しているのである。京の町に内属するものとして老婆を捉え、さらにそれを視点として導入しながら、下人の言動またはその「引剥」によって幕を下ろした『羅生門』について考察を試みた。",
+                "dc:date": "1993"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001143119",
+                "@type": "item",
+                "title": "『羅生門』再読",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143119"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143119.json"
+                },
+                "dc:creator": [{
+                    "@value": "樋口 正規"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1993",
+                "prism:number": "161",
+                "prism:startingPage": "38",
+                "prism:endingPage": "39",
+                "prism:publicationDate": "1993",
+                "dc:date": "1993"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001143033",
+                "@type": "item",
+                "title": "再び、『羅生門』について(上) : 『こゝろ』(漱石)に共軛する下人の倦怠の心情",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143033"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001143033.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐藤 嗣男"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1993",
+                "prism:number": "162",
+                "prism:startingPage": "4",
+                "prism:endingPage": "13",
+                "prism:publicationDate": "1993",
+                "dc:date": "1993"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001142602",
+                "@type": "item",
+                "title": "再び、「羅生門」について : 中 : 芥川世代と漱石世代の異質性",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001142602"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001142602.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐藤 嗣男"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1993",
+                "prism:number": "163",
+                "prism:startingPage": "80",
+                "prism:endingPage": "89",
+                "prism:publicationDate": "1993",
+                "dc:date": "1993"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110000466354",
+                "@type": "item",
+                "title": "形態素「タ」の機能を求めて - テクスト「羅生門」の分析 -",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000466354"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000466354.json"
+                },
+                "dc:creator": [{
+                    "@value": "山本 雅子"
+                }],
+                "dc:publisher": "中部大学国際関係学部",
+                "prism:publicationName": "国際関係学部紀要",
+                "prism:issn": "0910-8882",
+                "prism:number": "9",
+                "prism:startingPage": "135",
+                "prism:endingPage": "152",
+                "prism:publicationDate": "1992-10",
+                "dc:date": "1992-10"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000877493",
+                "@type": "item",
+                "title": "生徒の活動を中心にした授業展開の試み : グループ発表で「こころ」「羅生門」を読む",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877493"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877493.json"
+                },
+                "dc:creator": [{
+                    "@value": "小山 秀樹"
+                }],
+                "dc:publisher": "広島大学教育学部光葉会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "0287-3354",
+                "prism:number": "35",
+                "prism:startingPage": "42",
+                "prism:endingPage": "56",
+                "prism:publicationDate": "1992-03-31",
+                "dc:date": "1992-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000877492",
+                "@type": "item",
+                "title": "芥川龍之介『枯野抄』を読む : 「国語I」における『羅生門』読後の発展学習の試み",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877492"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877492.json"
+                },
+                "dc:creator": [{
+                    "@value": "井上 博夫"
+                }],
+                "dc:publisher": "広島大学教育学部光葉会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "0287-3354",
+                "prism:number": "35",
+                "prism:startingPage": "24",
+                "prism:endingPage": "41",
+                "prism:publicationDate": "1992-03-31",
+                "dc:date": "1992-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000877491",
+                "@type": "item",
+                "title": "文学教材の授業活性化の試み : 芥川龍之介「羅生門」の教材研究",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877491"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877491.json"
+                },
+                "dc:creator": [{
+                    "@value": "渡辺 春美"
+                }],
+                "dc:publisher": "広島大学教育学部光葉会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "0287-3354",
+                "prism:number": "35",
+                "prism:startingPage": "12",
+                "prism:endingPage": "23",
+                "prism:publicationDate": "1992-03-31",
+                "dc:date": "1992-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110004715029",
+                "@type": "item",
+                "title": "「羅生門」から「山月記」へ",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004715029"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110004715029.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐々木 充"
+                }],
+                "dc:publisher": "千葉大学教育学部",
+                "prism:publicationName": "千葉大学教育学部研究紀要",
+                "prism:issn": "05776856",
+                "prism:volume": "40",
+                "prism:number": "1",
+                "prism:startingPage": "p337",
+                "prism:endingPage": "350",
+                "prism:publicationDate": "1992-02",
+                "description": "芥川龍之介の準処女作「羅生門」には、こんにちにいたって、なお多くの論が提出されている。読者にとって、先人の論がこの作品を捉えるにどこか物足りなく感じられるからであろう。逆に言うと、この龍之介弱年の作品が、存外、多様な側面を含み持っているということを意味しよう。また、中島敦についての考察も、新しい段階にさしかかっていると思われる。たとえばその登場に際して、芥川との親近性を言われたその距離感を、確認してみる必要があるだろう。そのような二つの課題を持って、本小論は出発する。",
+                "dc:date": "1992-02"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110000330138",
+                "@type": "item",
+                "title": "&lt;羅生門&gt;への途--方法の獲得",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000330138"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000330138.json"
+                },
+                "dc:creator": [{
+                    "@value": "森 正人"
+                }],
+                "dc:publisher": "熊本大学",
+                "prism:publicationName": "文学部論叢",
+                "prism:issn": "03887073",
+                "prism:number": "35",
+                "prism:startingPage": "p220",
+                "prism:endingPage": "200",
+                "prism:publicationDate": "1991-11",
+                "dc:date": "1991-11"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110002686976",
+                "@type": "item",
+                "title": "II-6 教材『羅生門』の談話構造 : 文末表現を中心に",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002686976"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002686976.json"
+                },
+                "dc:creator": [{
+                        "@value": "山本 雅子"
+                    },
+                    {
+                        "@value": "愛知教育大学大学院"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "81",
+                "prism:startingPage": "49",
+                "prism:endingPage": "49",
+                "prism:publicationDate": "1991-10-18",
+                "dc:date": "1991-10-18"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110002686915",
+                "@type": "item",
+                "title": "I-2 芥川龍之介「羅生門」の教材研究 : 表現分析を中心として",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002686915"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002686915.json"
+                },
+                "dc:creator": [{
+                        "@value": "浦上 博文"
+                    },
+                    {
+                        "@value": "福山暁の星女子中・高等学校"
+                    }
+                ],
+                "prism:publicationName": "全国大学国語教育学会発表要旨集",
+                "prism:number": "80",
+                "prism:startingPage": "13",
+                "prism:endingPage": "13",
+                "prism:publicationDate": "1991-08-01",
+                "dc:date": "1991-08-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120001056983",
+                "@type": "item",
+                "title": "Project「羅生門」-Report No.1(1)-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001056983"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120001056983.json"
+                },
+                "dc:creator": [{
+                        "@value": "石田 晶大"
+                    },
+                    {
+                        "@value": "大杉 剛司"
+                    },
+                    {
+                        "@value": "北尾 倫彦"
+                    },
+                    {
+                        "@value": "沢田 悦子"
+                    },
+                    {
+                        "@value": "武田 薫"
+                    },
+                    {
+                        "@value": "長町 充家"
+                    },
+                    {
+                        "@value": "平岡 則義"
+                    },
+                    {
+                        "@value": "黄 香淑"
+                    }
+                ],
+                "dc:publisher": "大阪教育大学・美術学科",
+                "prism:publicationName": "美術科研究",
+                "prism:issn": "02884313",
+                "prism:volume": "6",
+                "prism:startingPage": "1",
+                "prism:endingPage": "69",
+                "prism:publicationDate": "1989-03-31",
+                "dc:date": "1989-03-31"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110002685567",
+                "@type": "item",
+                "title": "小学校におけるコンピュータ利用の展開例",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002685567"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110002685567.json"
+                },
+                "dc:creator": [{
+                    "@value": "加藤 秀臣"
+                }],
+                "dc:publisher": "一般社団法人 日本科学教育学会",
+                "prism:publicationName": "日本科学教育学会研究会研究報告",
+                "prism:volume": "3",
+                "prism:number": "4",
+                "prism:startingPage": "35",
+                "prism:endingPage": "38",
+                "prism:publicationDate": "1989",
+                "description": "本校においては、昭和62年度まではパソコンの設置そのものは全くなく、僅かに個人用として1〜2台所有していたようで、それも学校へ持ち込まれることは全くないといってよい程だった。また機種もPC8801で、個人研究の域を脱せず自宅の片隅で趣味としてこつこつ暇を見ては進める程度であったときく。63年度になりようやくPC9801CVとPC201V2プリンタ1機を導入、このことを手はじめに9台が実働するようになった。校内組織も年度中途より新しく教育工学部が特設された。このような状況下であったので当然のことながら、実践への課題はパソコンリテラシー, CMI, CAIと無限に近いものがあった。学級数29、児童数1117人、と給食関係の職員まで含め職員数は47人となる。そこで、教務、専門部、保健養護、学校事務、学校給食等どのパートでもよいから、必要な分野、利用できる領域からとりかかることにし、本校パソコン教育元年度とした。以下は、0からの出発あったこの1年間の足取りを列記し、合わせて平成元年度への展望をきり開くことにしたい。",
+                "dc:date": "1989"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110000330893",
+                "@type": "item",
+                "title": "芥川竜之介・英訳作品研究--「羅生門」〔英文〕",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000330893"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110000330893.json"
+                },
+                "dc:creator": [{
+                    "@value": "平岡 敏夫"
+                }],
+                "dc:publisher": "筑波大学文藝・言語学系",
+                "prism:publicationName": "文芸言語研究 文芸篇",
+                "prism:issn": "03877523",
+                "prism:number": "16",
+                "prism:startingPage": "p1",
+                "prism:endingPage": "26",
+                "prism:publicationDate": "1989",
+                "dc:date": "1989"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000980154",
+                "@type": "item",
+                "title": "「鼻」論 : 「羅生門」を媒介として",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000980154"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000980154.json"
+                },
+                "dc:creator": [{
+                    "@value": "下野 孝文"
+                }],
+                "dc:publisher": "文献探究の会",
+                "prism:publicationName": "文獻探究",
+                "prism:issn": "0386-1910",
+                "prism:volume": "21",
+                "prism:startingPage": "1",
+                "prism:endingPage": "10",
+                "prism:publicationDate": "1988-03-25",
+                "dc:date": "1988-03-25"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120002109620",
+                "@type": "item",
+                "title": "研究における「羅生門効果」とは何か -バイテル著・長町訳 『オルターナティブ』を読む-",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002109620"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120002109620.json"
+                },
+                "dc:creator": [{
+                    "@value": "那賀 貞彦"
+                }],
+                "dc:publisher": "大阪教育大学・美術学科",
+                "prism:publicationName": "美術科研究 エディトリアル",
+                "prism:volume": "8",
+                "prism:startingPage": "30",
+                "prism:endingPage": "34",
+                "prism:publicationDate": "1988-03-24",
+                "dc:date": "1988-03-24"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009930479",
+                "@type": "item",
+                "title": "『羅生門』(初稿)の空間 : その主題把握をめぐり(&lt;特集&gt;虚構の時空)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009930479"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009930479.json"
+                },
+                "dc:creator": [{
+                    "@value": "小泉 浩一郎"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "35",
+                "prism:number": "1",
+                "prism:startingPage": "25",
+                "prism:endingPage": "36",
+                "prism:publicationDate": "1986",
+                "description": "「羅生門」(芥川龍之介)の空間の非日常性・密室性を前提として、その内部で展開する下人と老婆との対立のドラマを&lt;永遠に超えんとするもの&gt;と&lt;永遠に守らんとするもの&gt;(「西方の人」)即ち理想主義対現実主義の対立のドラマとみ、さらにそこに&lt;秩序&gt;対反&lt;秩序&gt;の対立という究極の主題をみる。",
+                "dc:date": "1986"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009930261",
+                "@type": "item",
+                "title": "芥川龍之介「手巾」私論",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009930261"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009930261.json"
+                },
+                "dc:creator": [{
+                    "@value": "愛川 弘文"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "35",
+                "prism:number": "6",
+                "prism:startingPage": "61",
+                "prism:endingPage": "68",
+                "prism:publicationDate": "1986",
+                "description": "「手巾」は、当時文壇の檜舞台と目されていた「中央公論」に芥川が初めて書いた作品であり、「羅生門」「鼻」と続いた&quot;王朝もの&quot;とは趣を異にした現代小説である。重要な作品にもかかわらず、意外にも作品論の数は少なく、研究も途についたばかりである。稿者は先行文献をたんねんに検討し直しながら、そこに共通する&quot;武士道批判の美談否定小説&quot;という通説を否定し、あわせて卑見を述べた。",
+                "dc:date": "1986"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009704014",
+                "@type": "item",
+                "title": "岡山県羅生門の蘇苔類について(第15回大会講演要旨)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009704014"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009704014.json"
+                },
+                "dc:creator": [{
+                    "@value": "井木 張二"
+                }],
+                "dc:publisher": "日本蘚苔類学会",
+                "prism:publicationName": "日本蘚苔類学会会報",
+                "prism:issn": "0285-0869",
+                "prism:volume": "4",
+                "prism:number": "6",
+                "prism:pageRange": "103",
+                "prism:publicationDate": "1986",
+                "dc:date": "1986"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000981626",
+                "@type": "item",
+                "title": "「芋粥」論",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000981626"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000981626.json"
+                },
+                "dc:creator": [{
+                    "@value": "下野 孝文"
+                }],
+                "dc:publisher": "九州大学国語国文学会",
+                "prism:publicationName": "語文研究",
+                "prism:issn": "04360982",
+                "prism:number": "59",
+                "prism:startingPage": "p41",
+                "prism:endingPage": "53",
+                "prism:publicationDate": "1985-06",
+                "dc:date": "1985-06"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/40004439075",
+                "@type": "item",
+                "title": "「羅生門」とその前後--&lt;老婆&gt;の意義",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/40004439075"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/40004439075.json"
+                },
+                "dc:creator": [{
+                    "@value": "橋浦 洋志"
+                }],
+                "dc:publisher": "茨城大学教育学部",
+                "prism:publicationName": "茨城大学教育学部紀要. 人文・社会科学・芸術",
+                "prism:issn": "0386-765X",
+                "prism:number": "33",
+                "prism:startingPage": "p13",
+                "prism:endingPage": "22",
+                "prism:publicationDate": "1984-03",
+                "dc:date": "1984-03"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000792646",
+                "@type": "item",
+                "title": "「羅生門」縁起--言葉の時",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000792646"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000792646.json"
+                },
+                "dc:creator": [{
+                    "@value": "佐々木 雅発"
+                }],
+                "dc:publisher": "早稲田大学大学院文学研究科",
+                "prism:publicationName": "早稲田大学大学院文学研究科紀要",
+                "prism:issn": "05097517",
+                "prism:number": "30",
+                "prism:startingPage": "p111",
+                "prism:endingPage": "127",
+                "prism:publicationDate": "1984",
+                "dc:date": "1984"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009959937",
+                "@type": "item",
+                "title": "「羅生門」を読む(&lt;特集&gt;文学教育における&lt;読み&gt;)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009959937"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009959937.json"
+                },
+                "dc:creator": [{
+                        "@value": "田近 洵一"
+                    },
+                    {
+                        "@value": "鈴木 醇爾"
+                    },
+                    {
+                        "@value": "三谷 邦明"
+                    },
+                    {
+                        "@value": "関口 安義"
+                    }
+                ],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "33",
+                "prism:number": "8",
+                "prism:startingPage": "1",
+                "prism:endingPage": "24",
+                "prism:publicationDate": "1984",
+                "dc:date": "1984"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110003038495",
+                "@type": "item",
+                "title": "岡山県阿哲台羅生門洞と周辺の第四紀陸貝化石",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110003038495"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110003038495.json"
+                },
+                "dc:creator": [{
+                        "@value": "赤木 三郎"
+                    },
+                    {
+                        "@value": "藤江 明雄"
+                    }
+                ],
+                "dc:publisher": "一般社団法人 日本地質学会",
+                "prism:publicationName": "日本地質学会学術大会講演要旨",
+                "prism:issn": "1348-3935",
+                "prism:volume": "1984",
+                "prism:number": "0",
+                "prism:pageRange": "96",
+                "prism:publicationDate": "1984",
+                "dc:date": "1984"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000981652",
+                "@type": "item",
+                "title": "「老狂人」から「羅生門」まで--「羅生門」前史における視点の獲得と関連して",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000981652"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000981652.json"
+                },
+                "dc:creator": [{
+                    "@value": "松本 常彦"
+                }],
+                "dc:publisher": "九州大学国語国文学会",
+                "prism:publicationName": "語文研究",
+                "prism:issn": "04360982",
+                "prism:number": "55",
+                "prism:startingPage": "p19",
+                "prism:endingPage": "28",
+                "prism:publicationDate": "1983-06",
+                "dc:date": "1983-06"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009964290",
+                "@type": "item",
+                "title": "羅生門(読む)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009964290"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009964290.json"
+                },
+                "dc:creator": [{
+                    "@value": "首藤 基澄"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "32",
+                "prism:number": "6",
+                "prism:startingPage": "69",
+                "prism:endingPage": "73",
+                "prism:publicationDate": "1983",
+                "dc:date": "1983"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001142797",
+                "@type": "item",
+                "title": "『羅生門』 : 読者論の視点から(&lt;小特集&gt;なぜ、今、芥川文学か)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001142797"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001142797.json"
+                },
+                "dc:creator": [{
+                    "@value": "高田 正夫"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1983",
+                "prism:number": "123",
+                "prism:startingPage": "19",
+                "prism:endingPage": "25",
+                "prism:publicationDate": "1983",
+                "dc:date": "1983"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110003487135",
+                "@type": "item",
+                "title": "『羅生門』の教材化 : 中学校の場合(私の教室)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110003487135"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110003487135.json"
+                },
+                "dc:creator": [{
+                    "@value": "芝崎 文仁"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1982",
+                "prism:number": "119",
+                "prism:startingPage": "41",
+                "prism:endingPage": "43",
+                "prism:publicationDate": "1982",
+                "dc:date": "1982"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110001049593",
+                "@type": "item",
+                "title": "｢羅生門」と「楢山節考」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001049593"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110001049593.json"
+                },
+                "dc:creator": [{
+                    "@value": "赤尾 利弘"
+                }],
+                "dc:publisher": "上智大学国文学会",
+                "prism:publicationName": "上智大学国文学論集",
+                "prism:issn": "02880210",
+                "prism:number": "14",
+                "prism:startingPage": "61",
+                "prism:endingPage": "74",
+                "prism:publicationDate": "1981-01-17",
+                "dc:date": "1981-01-17"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009970535",
+                "@type": "item",
+                "title": "「羅生門」の核心 : 教室でどう読むか(読む)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009970535"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009970535.json"
+                },
+                "dc:creator": [{
+                    "@value": "勝田 和學"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "29",
+                "prism:number": "2",
+                "prism:startingPage": "85",
+                "prism:endingPage": "88",
+                "prism:publicationDate": "1980",
+                "dc:date": "1980"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000877113",
+                "@type": "item",
+                "title": "教材研究『羅生門』 : 教科書の注記を中心として",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877113"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877113.json"
+                },
+                "dc:creator": [{
+                    "@value": "甲斐 睦朗"
+                }],
+                "dc:publisher": "広島大学教育学部光葉会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "0287-3354",
+                "prism:number": "20",
+                "prism:startingPage": "62",
+                "prism:endingPage": "73",
+                "prism:publicationDate": "1973-12-01",
+                "dc:date": "1973-12-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000882884",
+                "@type": "item",
+                "title": "「羅生門」とその周辺",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000882884"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000882884.json"
+                },
+                "dc:creator": [{
+                    "@value": "越智 良二"
+                }],
+                "dc:publisher": "広島大学近代文学研究会",
+                "prism:publicationName": "近代文学試論",
+                "prism:issn": "0910-9765",
+                "prism:number": "11",
+                "prism:startingPage": "26",
+                "prism:endingPage": "34",
+                "prism:publicationDate": "1973-06-10",
+                "dc:date": "1973-06-10"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130003404580",
+                "@type": "item",
+                "title": "ニホンサクラソウの細胞遺伝学的研究 : 園芸品種および近縁野生種の染色体数",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130003404580"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130003404580.json"
+                },
+                "dc:creator": [{
+                    "@value": "山口 聰"
+                }],
+                "dc:publisher": "日本育種学会",
+                "prism:publicationName": "育種学雑誌",
+                "prism:issn": "0536-3683",
+                "prism:volume": "23",
+                "prism:number": "2",
+                "prism:startingPage": "86",
+                "prism:endingPage": "92",
+                "prism:publicationDate": "1973",
+                "description": "ニホンサクラソウの育種に役立てるため、ニホンサクラソウの園芸品種ならびに、その近縁野生種の染色体数を調べた。園芸品種のなかには、二倍体以外に三倍体、四倍体のものが含まれていた。四倍体の報告は今回が初めてである。結果は次の通りである。二倍性品種(2n=24)、天ヶ下・朝日・青葉の笛・青海原・東錦・紅女王・美人競・千鳥遊・千代鶴・蝶の眠・大力無双・泥中の玉・富士越・藤娘・月桂冠・還城楽・銀覆輪・五大州・花車・畠の錦・初姿・初桜・緋の袴・緋の衣・日の丸・人丸・漁火・十二単重・十州の空・陽炎・花月楼・神代の冠・狩衣・錦鶏鳥・金秀花・清見潟・駒止・香炉峰・寿・喰裂紙・雲井鶴・京鹿子・松の雪・三保の古事・御国の誉・三田自慢・武蔵野・南京小桜・思いの儘・羅生門・瑠璃殿・桜源氏・漣・西王母・戦勝・志賀の都・紫光梅・獅子奮迅・紫雲竜・手中の玉・墨染衣・田子の浦・大明錦・玉川染・玉孔雀・玉の宮・竜田の夕・東陽殿・宇宙・浮間の光・瑤台の夢・雪の肌・前代未聞。三倍性品種(2n=36)、駅路の鈴・嵐山・隠れ簑・獅子頭・重紫雲・目白台。四倍性品種(2n=48)、大和神風。園芸品種間では、倍数性レベルと仁の最大数とに比例関係が認められ、また全般的に見て三倍性品種は、二倍性品種に比して大きな気孔を有している。二倍性、三倍性および四倍性品種は、それぞれ二本、三本、四本の仁染色体を有しており、同質倍数性が暗示される。倍数性品種の起原には、非還元性配偶子が大きく関与していると思われる。近縁野生種の染色体数は次の通りであつた。Sect. Caortusoides : P. sieboldi E. Morr. 2n=24、P. jesoana Miq. var. jesoana 2n=24、P.kisoana Miq. var. kisoana 2n=24、P.kisoana Miq. var. shikokiana 2n=24 Sect. Reinii : P. tosaensis Yatabe 2n=24、P. reinii Franch. et Savat. var. reinii 2n=24。P. sieboldiとP. jesoana var. jesoanaとの核型は、ほぼ一致しており、類縁性が高いと思われ、両者の間に交雑の可能性が推定される。従つて、P. jesoanaの特徴である、段咲き、円形の葉、濃紅色の花色などの彩質をニホソサクラソウに導入して、全く新しい園芸品種を作出する可能性がある。",
+                "dc:date": "1973"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110003486636",
+                "@type": "item",
+                "title": "芥川文学の誕生 : 流布本『羅生門』の成立過程・再説/文学史の方法意識について・補説(文教研/&apos;72年春季合宿/報告レジュメ)",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110003486636"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110003486636.json"
+                },
+                "dc:creator": [{
+                    "@value": "熊谷 孝"
+                }],
+                "dc:publisher": "文学教育研究者集団",
+                "prism:publicationName": "文学と教育",
+                "prism:issn": "0287-6205",
+                "prism:volume": "1972",
+                "prism:number": "74",
+                "prism:startingPage": "14",
+                "prism:endingPage": "17",
+                "prism:publicationDate": "1972",
+                "dc:date": "1972"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/110009985102",
+                "@type": "item",
+                "title": "龍之介の下町意識の変質について : 「大川の水」から「羅生門」まで",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009985102"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/110009985102.json"
+                },
+                "dc:creator": [{
+                    "@value": "石割 透"
+                }],
+                "dc:publisher": "日本文学協会",
+                "prism:publicationName": "日本文学",
+                "prism:issn": "0386-9903",
+                "prism:volume": "20",
+                "prism:number": "9",
+                "prism:startingPage": "10",
+                "prism:endingPage": "23",
+                "prism:publicationDate": "1971",
+                "dc:date": "1971"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120000877077",
+                "@type": "item",
+                "title": "問題発見学習と課題学習 : 「羅生門」の学習を通して &lt;「課題学習」小特集&gt;",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877077"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120000877077.json"
+                },
+                "dc:creator": [{
+                    "@value": "光本 光徳"
+                }],
+                "dc:publisher": "広島大学教育学部光葉会",
+                "prism:publicationName": "国語教育研究",
+                "prism:issn": "0287-3354",
+                "prism:number": "16",
+                "prism:startingPage": "17",
+                "prism:endingPage": "26",
+                "prism:publicationDate": "1969-04-01",
+                "dc:date": "1969-04-01"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130005875092",
+                "@type": "item",
+                "title": "アルゼンチン版「羅生門」",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130005875092"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130005875092.json"
+                },
+                "dc:creator": [{
+                    "@value": "大島 正"
+                }],
+                "dc:publisher": "日本比較文学会",
+                "prism:publicationName": "比較文学",
+                "prism:issn": "0440-8039",
+                "prism:volume": "1",
+                "prism:number": "0",
+                "prism:startingPage": "100",
+                "prism:endingPage": "102",
+                "prism:publicationDate": "1958",
+                "dc:date": "1958"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/130000988294",
+                "@type": "item",
+                "title": "羅生門天然橋及石灰洞",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/130000988294"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/130000988294.json"
+                },
+                "dc:creator": [{
+                    "@value": "T O"
+                }],
+                "dc:publisher": "公益社団法人 東京地学協会",
+                "prism:publicationName": "地學雜誌",
+                "prism:issn": "0022-135X",
+                "prism:volume": "36",
+                "prism:number": "11",
+                "prism:startingPage": "672a",
+                "prism:endingPage": "673",
+                "prism:publicationDate": "1924",
+                "dc:date": "1924"
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006025325",
+                "@type": "item",
+                "title": "「古事記」「風土記」における「ベーオウルフ」の類話 : グレンデルと「古事記」国譲り譚のタケミナカタ説話、および「出雲国風土記」安木郷の猪麻呂説話",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006025325"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006025325.json"
+                },
+                "dc:creator": [{
+                    "@value": "多ケ谷有子"
+                }],
+                "dc:publisher": "関東学院大学[文学部]人文学会",
+                "prism:publicationName": "関東学院大学文学部紀要",
+                "prism:issn": "02861216",
+                "prism:volume": "123",
+                "prism:startingPage": "105",
+                "prism:endingPage": "139",
+                "description": "イングランド最古の叙事詩Beowulfと渡辺綱伝説のモチーフの類似については、島津久基の『羅生門の鬼』で詳細に論じられて以来、衆目を集め、両者の比較検討も行われるところとなった。本稿は、Beowulfと日本の古典文学における類似するモチーフの比較というテーマの一環として、『古事記』における「国譲り譚」と『出雲国風土記』の「安木郷猪麻呂説話」を取りあげ、類似するモチーフの比較検討を行った。前者については、新来の神/英雄が在来の神/怪物と素手で闘い、相手の手/腕を害し、その結果在来の神/怪物は湖に逃走し、新来の神/英雄に追われて完敗し、国譲りが完成する/斃される、という類似がみられる。後者については、娘/息子を害された父/母が復讐し、斃した相手から片脛/片腕を奪い返し、相手の死骸を曝す、という類似が見られる。本稿では、この類似についての考察を行い、加えて、話型の比較考察をすることの意味を見出し、今後の研究につなげる展望を模索した。",
+                "dc:date": ""
+            },
+            {
+                "@id": "https://ci.nii.ac.jp/naid/120006024532",
+                "@type": "item",
+                "title": "『日本霊異記』の「道場法師説話」と『ベーオウルフ』との比較検討 : --物語に見る零落した古い神の残滓--",
+                "link": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006024532"
+                },
+                "rdfs:seeAlso": {
+                    "@id": "https://ci.nii.ac.jp/naid/120006024532.json"
+                },
+                "dc:creator": [{
+                    "@value": "多ケ谷有子"
+                }],
+                "dc:publisher": "関東学院大学[文学部]人文学会",
+                "prism:publicationName": "関東学院大学文学部紀要",
+                "prism:issn": "02861216",
+                "prism:volume": "117",
+                "prism:startingPage": "3",
+                "prism:endingPage": "36",
+                "description": "『日本霊異記』にある「道場法師説話」の鬼退治と『ベーオウルフ』のグレンデル退治とは、類似する部分が多い。「道場法師説話」の鬼退治譚がもつモチーフは、小異を除きすべて『ベーオウルフ』にもある。島津久基著『羅生門の鬼』は、謡曲『羅生門』の原型として「道場法師説話」を引いているが、『ベーオウルフ』との直接の対比はなされていない。道場法師は柳田民俗学でいう「小さ子」の系統にあるとされ、『ベーオウルフ』にはそれに似た\"Ash Lad\"のモチーフがある。道場法師が退治した鬼は仏教を妨げる地主神との解釈があるが、ベーオウルフをキリスト教的英雄と見れば、グレンデルを土地伝来の地主神が零落した姿と見ることができる。「道場法師説話」はある側面では「綱伝説」より『ベーオウルフ』に似る。以上を踏まえて、『日本霊異記』の「道場法師説話」と古英詩『ベーオウルフ』とを比較検討する。",
+                "dc:date": ""
+            }
+        ]
+    }]
+}
